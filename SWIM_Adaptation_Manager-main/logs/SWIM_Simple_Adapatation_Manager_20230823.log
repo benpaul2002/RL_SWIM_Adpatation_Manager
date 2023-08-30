@@ -1,0 +1,445 @@
+2023-08-23 09:26:54 DEBUG Logger Initialized
+2023-08-23 09:26:54 INFO running the adaptation effector module
+2023-08-23 09:26:54 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:27:37 DEBUG Logger Initialized
+2023-08-23 09:27:37 INFO running the adaptation effector module
+2023-08-23 09:27:37 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:28:37 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:31:48 DEBUG Logger Initialized
+2023-08-23 09:31:48 INFO running the adaptation effector module
+2023-08-23 09:31:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:31:48 INFO  The response time far below threshold -- Initializing Planner
+2023-08-23 09:31:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:31:48 INFO calculating the utility values
+2023-08-23 09:31:48 INFO Current dimmer value 0.9
+2023-08-23 09:31:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:31:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:31:48 INFO inside change dimer module, change flag increase
+2023-08-23 09:32:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:32:48 INFO  The response time far below threshold -- Initializing Planner
+2023-08-23 09:32:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:32:48 INFO calculating the utility values
+2023-08-23 09:32:48 INFO Current dimmer value 1.0
+2023-08-23 09:32:48 INFO  dimmer flag status, increase : decrease False : True
+2023-08-23 09:32:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:32:48 INFO inside change dimer module, change flag increase
+2023-08-23 09:33:34 DEBUG Logger Initialized
+2023-08-23 09:33:34 INFO running the adaptation effector module
+2023-08-23 09:33:34 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:33:34 INFO  The response time far below threshold -- Initializing Planner
+2023-08-23 09:33:34 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:33:34 INFO calculating the utility values
+2023-08-23 09:33:34 INFO Current dimmer value 0.9
+2023-08-23 09:33:34 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:33:34 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:33:34 INFO removing server
+2023-08-23 09:33:34 INFO server removed successfully
+2023-08-23 09:34:34 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:34:34 INFO  The response time far below threshold -- Initializing Planner
+2023-08-23 09:34:34 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:34:34 INFO calculating the utility values
+2023-08-23 09:34:34 INFO Current dimmer value 0.9
+2023-08-23 09:34:34 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:34:34 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:34:34 INFO removing server
+2023-08-23 09:34:34 INFO server removed successfully
+2023-08-23 09:35:34 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:36:34 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:37:25 DEBUG Logger Initialized
+2023-08-23 09:37:25 INFO running the adaptation effector module
+2023-08-23 09:37:25 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:37:25 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:37:25 INFO calculating the utility values
+2023-08-23 09:37:25 INFO Current dimmer value 0.9
+2023-08-23 09:37:25 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:37:25 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:37:25 INFO inside add server module
+2023-08-23 09:37:25 INFO Server added successfully
+2023-08-23 09:37:25 INFO inside change dimer module, change flag decrease
+2023-08-23 09:38:05 DEBUG Logger Initialized
+2023-08-23 09:38:05 INFO running the adaptation effector module
+2023-08-23 09:38:05 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:38:05 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:38:05 INFO calculating the utility values
+2023-08-23 09:38:05 INFO Current dimmer value 0.9
+2023-08-23 09:38:05 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:38:05 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:38:05 INFO removing server
+2023-08-23 09:38:05 INFO server removed successfully
+2023-08-23 09:38:48 DEBUG Logger Initialized
+2023-08-23 09:38:48 INFO running the adaptation effector module
+2023-08-23 09:38:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:38:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:38:48 INFO calculating the utility values
+2023-08-23 09:38:48 INFO Current dimmer value 0.9
+2023-08-23 09:38:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:38:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:38:48 INFO removing server
+2023-08-23 09:38:48 INFO server removed successfully
+2023-08-23 09:39:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:39:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 09:39:48 INFO calculating the utility values
+2023-08-23 09:39:48 INFO Current dimmer value 0.9
+2023-08-23 09:39:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 09:39:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 09:39:48 INFO removing server
+2023-08-23 09:39:48 INFO server removed successfully
+2023-08-23 09:40:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:41:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:42:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:43:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:44:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:45:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:46:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:47:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:48:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:49:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:50:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:51:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:52:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:53:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:54:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:55:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:56:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:57:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:58:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 09:59:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:00:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:01:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:02:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:03:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:04:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:05:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:06:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:07:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:08:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:09:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:10:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:11:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:12:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:13:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:14:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:15:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:16:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:17:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:18:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:19:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:20:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:21:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:22:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:23:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:24:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:25:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:26:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:27:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:28:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:29:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:30:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:31:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:32:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:33:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:34:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:35:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:36:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:37:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:38:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:39:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:40:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:41:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:42:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:43:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:44:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:45:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:46:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:47:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:48:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:49:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:49:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:49:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:49:48 INFO calculating the utility values
+2023-08-23 10:49:48 INFO Current dimmer value 0.9
+2023-08-23 10:49:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:49:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:49:48 INFO inside add server module
+2023-08-23 10:49:48 INFO Server added successfully
+2023-08-23 10:49:48 INFO inside change dimer module, change flag decrease
+2023-08-23 10:50:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:50:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:50:48 INFO calculating the utility values
+2023-08-23 10:50:48 INFO Current dimmer value 0.8
+2023-08-23 10:50:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:50:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:50:48 INFO removing server
+2023-08-23 10:50:48 INFO server removed successfully
+2023-08-23 10:51:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:52:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:53:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:54:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:54:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:54:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:54:48 INFO calculating the utility values
+2023-08-23 10:54:48 INFO Current dimmer value 0.8
+2023-08-23 10:54:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:54:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:54:48 INFO inside add server module
+2023-08-23 10:54:48 INFO Server added successfully
+2023-08-23 10:54:48 INFO inside change dimer module, change flag decrease
+2023-08-23 10:55:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:55:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:55:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:55:48 INFO calculating the utility values
+2023-08-23 10:55:48 INFO Current dimmer value 0.7
+2023-08-23 10:55:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:55:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:55:48 INFO inside change dimer module, change flag increase
+2023-08-23 10:56:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:56:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:56:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:56:48 INFO calculating the utility values
+2023-08-23 10:56:48 INFO Current dimmer value 0.8
+2023-08-23 10:56:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:56:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:56:48 INFO removing server
+2023-08-23 10:56:48 INFO server removed successfully
+2023-08-23 10:57:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:57:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:57:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:57:48 INFO calculating the utility values
+2023-08-23 10:57:48 INFO Current dimmer value 0.8
+2023-08-23 10:57:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:57:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:57:48 INFO inside add server module
+2023-08-23 10:57:48 INFO Server added successfully
+2023-08-23 10:57:48 INFO inside change dimer module, change flag decrease
+2023-08-23 10:58:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:58:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:58:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:58:48 INFO calculating the utility values
+2023-08-23 10:58:48 INFO Current dimmer value 0.7
+2023-08-23 10:58:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:58:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:58:48 INFO inside change dimer module, change flag increase
+2023-08-23 10:59:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 10:59:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 10:59:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 10:59:48 INFO calculating the utility values
+2023-08-23 10:59:48 INFO Current dimmer value 0.8
+2023-08-23 10:59:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 10:59:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 10:59:48 INFO removing server
+2023-08-23 10:59:48 INFO server removed successfully
+2023-08-23 11:00:48 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:00:48 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:00:48 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:00:48 INFO calculating the utility values
+2023-08-23 11:00:48 INFO Current dimmer value 0.8
+2023-08-23 11:00:48 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:00:48 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:00:48 INFO inside add server module
+2023-08-23 11:00:48 INFO Server added successfully
+2023-08-23 11:00:48 INFO inside change dimer module, change flag decrease
+2023-08-23 11:01:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:01:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:01:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:01:49 INFO calculating the utility values
+2023-08-23 11:01:49 INFO Current dimmer value 0.7
+2023-08-23 11:01:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:01:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:01:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:02:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:02:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:02:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:02:49 INFO calculating the utility values
+2023-08-23 11:02:49 INFO Current dimmer value 0.8
+2023-08-23 11:02:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:02:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:02:49 INFO removing server
+2023-08-23 11:02:49 INFO server removed successfully
+2023-08-23 11:03:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:03:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:03:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:03:49 INFO calculating the utility values
+2023-08-23 11:03:49 INFO Current dimmer value 0.8
+2023-08-23 11:03:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:03:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:03:49 INFO inside add server module
+2023-08-23 11:03:49 INFO Server added successfully
+2023-08-23 11:03:49 INFO inside change dimer module, change flag decrease
+2023-08-23 11:04:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:04:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:04:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:04:49 INFO calculating the utility values
+2023-08-23 11:04:49 INFO Current dimmer value 0.7
+2023-08-23 11:04:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:04:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:04:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:05:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:05:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:05:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:05:49 INFO calculating the utility values
+2023-08-23 11:05:49 INFO Current dimmer value 0.8
+2023-08-23 11:05:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:05:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:05:49 INFO removing server
+2023-08-23 11:05:49 INFO server removed successfully
+2023-08-23 11:06:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:06:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:06:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:06:49 INFO calculating the utility values
+2023-08-23 11:06:49 INFO Current dimmer value 0.8
+2023-08-23 11:06:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:06:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:06:49 INFO inside add server module
+2023-08-23 11:06:49 INFO Server added successfully
+2023-08-23 11:06:49 INFO inside change dimer module, change flag decrease
+2023-08-23 11:07:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:07:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:07:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:07:49 INFO calculating the utility values
+2023-08-23 11:07:49 INFO Current dimmer value 0.7
+2023-08-23 11:07:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:07:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:07:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:08:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:08:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:08:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:08:49 INFO calculating the utility values
+2023-08-23 11:08:49 INFO Current dimmer value 0.8
+2023-08-23 11:08:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:08:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:08:49 INFO removing server
+2023-08-23 11:08:49 INFO server removed successfully
+2023-08-23 11:09:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:10:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:10:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:10:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:10:49 INFO calculating the utility values
+2023-08-23 11:10:49 INFO Current dimmer value 0.8
+2023-08-23 11:10:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:10:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:10:49 INFO inside add server module
+2023-08-23 11:10:49 INFO Server added successfully
+2023-08-23 11:10:49 INFO inside change dimer module, change flag decrease
+2023-08-23 11:11:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:11:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:11:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:11:49 INFO calculating the utility values
+2023-08-23 11:11:49 INFO Current dimmer value 0.7
+2023-08-23 11:11:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:11:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:11:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:12:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:12:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:12:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:12:49 INFO calculating the utility values
+2023-08-23 11:12:49 INFO Current dimmer value 0.8
+2023-08-23 11:12:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:12:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:12:49 INFO removing server
+2023-08-23 11:12:49 INFO server removed successfully
+2023-08-23 11:13:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:13:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:13:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:13:49 INFO calculating the utility values
+2023-08-23 11:13:49 INFO Current dimmer value 0.8
+2023-08-23 11:13:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:13:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:13:49 INFO inside add server module
+2023-08-23 11:13:49 INFO Server added successfully
+2023-08-23 11:13:49 INFO inside change dimer module, change flag decrease
+2023-08-23 11:14:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:14:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:14:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:14:49 INFO calculating the utility values
+2023-08-23 11:14:49 INFO Current dimmer value 0.7
+2023-08-23 11:14:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:14:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:14:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:15:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:15:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:15:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:15:49 INFO calculating the utility values
+2023-08-23 11:15:49 INFO Current dimmer value 0.8
+2023-08-23 11:15:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:15:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:15:49 INFO removing server
+2023-08-23 11:15:49 INFO server removed successfully
+2023-08-23 11:16:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:16:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:16:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:16:49 INFO calculating the utility values
+2023-08-23 11:16:49 INFO Current dimmer value 0.8
+2023-08-23 11:16:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:16:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:16:49 INFO inside add server module
+2023-08-23 11:16:49 INFO Server added successfully
+2023-08-23 11:16:49 INFO inside change dimer module, change flag decrease
+2023-08-23 11:17:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:17:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:17:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:17:49 INFO calculating the utility values
+2023-08-23 11:17:49 INFO Current dimmer value 0.7
+2023-08-23 11:17:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:17:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:17:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:18:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:18:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:18:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:18:49 INFO calculating the utility values
+2023-08-23 11:18:49 INFO Current dimmer value 0.8
+2023-08-23 11:18:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:18:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:18:49 INFO removing server
+2023-08-23 11:18:49 INFO server removed successfully
+2023-08-23 11:19:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:19:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:19:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:19:49 INFO calculating the utility values
+2023-08-23 11:19:49 INFO Current dimmer value 0.8
+2023-08-23 11:19:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:19:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:19:49 INFO inside add server module
+2023-08-23 11:19:49 INFO Server added successfully
+2023-08-23 11:19:49 INFO inside change dimer module, change flag decrease
+2023-08-23 11:20:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:20:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:20:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:20:49 INFO calculating the utility values
+2023-08-23 11:20:49 INFO Current dimmer value 0.7
+2023-08-23 11:20:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:20:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:20:49 INFO inside change dimer module, change flag increase
+2023-08-23 11:21:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:21:49 INFO  The response time above threshold -- Initializing Planner
+2023-08-23 11:21:49 INFO Inside the planner: Generating the adaptation plan
+2023-08-23 11:21:49 INFO calculating the utility values
+2023-08-23 11:21:49 INFO Current dimmer value 0.8
+2023-08-23 11:21:49 INFO  dimmer flag status, increase : decrease True : True
+2023-08-23 11:21:49 INFO Inside the Executor: executing the adaptations
+2023-08-23 11:21:49 INFO removing server
+2023-08-23 11:21:49 INFO server removed successfully
+2023-08-23 11:22:49 INFO Inside the Analyzer: Performing the analysis
+2023-08-23 11:23:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:24:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:25:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:26:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:27:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:28:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:29:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:30:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:31:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:32:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:33:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:34:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:35:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:36:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:37:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:38:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:39:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:40:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:41:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:42:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:43:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:44:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:45:49 ERROR [Errno 104] Connection reset by peer
+2023-08-23 11:46:49 ERROR [Errno 104] Connection reset by peer
