@@ -70,27 +70,28 @@ class Planner():
         print (" dimmer flag status, increase : decrease " + str(dimmer_increase) + " : " + str(dimmer_decrease))
         logger.info(" dimmer flag status, increase : decrease " + str(dimmer_increase) + " : " + str(dimmer_decrease))
 
-        action = 0
+        action = [0, 0]
         # Using a simple rule based approach for performing adaptation
         if server_count < 3 and server_add_flag is False:
             if dimmer_decrease is True:
-                action = 7 # Add server and decrease dimmer
+                action[0] = 1 # Add server and decrease dimmer
+                action[1] = -0.1
             elif dimmer_decrease is False:
-                action = 1  # add server
+                action[0] = 1  # add server
 
         elif server_add_flag is True or server_count >= 3:
             if dimmer_decrease is True:
-                action = 3
-            elif dimmer_decrease is False:
-                # There is nothing to be done cannot add server or cannot reduce dimmer
-                action = 5
+                action[1] = -0.1
+            # elif dimmer_decrease is False:
+            #     # There is nothing to be done cannot add server or cannot reduce dimmer
+            #     action = 5
 
         if self.dimmer_value >= 0.8 and server_count > 1:
-            action = 2
+            action[0] = -1
 
         execute_obj = Executor(self.dimmer_value,self.server_in_use,self.connection_obj)
 
-        execute_obj.adaptation_executor(action-1)
+        execute_obj.adaptation_executor(action)
 
         print (" Adaptation executed ")
 

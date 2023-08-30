@@ -55,21 +55,17 @@ class Executor():
         except Exception as e:
             logger.error(e)
 
-    def change_dimmer(self, change_flag):
+    def change_dimmer(self, new_dimmer_value):
         # change flag can be increase or decrease
-        logger.info("inside change dimer module, change flag " + str(change_flag))
-        print("Changing dimer ", change_flag)
+        logger.info("inside change dimer module, change dimmer by " + str(new_dimmer_value))
+        print("Changing dimer by", str(new_dimmer_value))
         host = init_obj.host
         port = init_obj.port  # The same port as used by the server
         try:
             s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             conn = s.connect((host, port))
-            value = "0.25"
-            if change_flag == "increase":
-                value = str(float(self.dimmer_value) + 0.1)
-            elif change_flag == "decrease":
-                value = str(float(self.dimmer_value) - 0.1)
-
+            value = "0.1"
+            value = str(float(self.dimmer_value) + new_dimmer_value)
             value = str.encode(value)
             s.sendall(b'set_dimmer ' + value)
             data = s.recv(1024)
@@ -134,36 +130,52 @@ class Executor():
     def adaptation_executor(self,action):
         # no action will be automatically taken care
         logger.info("Inside the Executor: executing the adaptations")
-        if action == 0:
-            #Add server first check if the server is already full
+        # if action == 0:
+        #     #Add server first check if the server is already full
+        #     self.add_server()
+        #     self.strategy = [["add_server",1.0,60.0]]
+        # elif action == 1:
+        #     # Remove a server
+        #     self.remove_server()
+        #     self.strategy = [["remove_server", 1.0,-1.0]]
+
+        # elif action == 2:
+        #     self.change_dimmer("increase")
+        # elif action == 3:
+        #     self.change_dimmer("decrease")
+
+        # elif action == 5:
+        #     self.add_server()
+        #     self.change_dimmer("increase")
+
+        # elif action == 6:
+        #     self.add_server()
+        #     self.change_dimmer("decrease")
+
+
+        # elif action ==  7:
+        #     self.remove_server()
+        #     self.change_dimmer("increase")
+
+        # elif action == 8:
+        #     self.remove_server()
+        #     self.change_dimmer("decrease")
+
+        server_action = action[0]
+        dimmer_action = action[1]
+
+        if server_action == 1:
             self.add_server()
-            self.strategy = [["add_server",1.0,60.0]]
-        elif action == 1:
-            # Remove a server
-            self.remove_server()
-            self.strategy = [["remove_server", 1.0,-1.0]]
-
-        elif action == 2:
-            self.change_dimmer("increase")
-        elif action == 3:
-            self.change_dimmer("decrease")
-
-        elif action == 5:
+        elif server_action == 2:
             self.add_server()
-            self.change_dimmer("increase")
-
-        elif action == 6:
             self.add_server()
-            self.change_dimmer("decrease")
-
-
-        elif action ==  7:
+        elif server_action == -1:
             self.remove_server()
-            self.change_dimmer("increase")
-
-        elif action == 8:
+        elif server_action == -2:
             self.remove_server()
-            self.change_dimmer("decrease")
+            self.remove_server()
+
+        self.change_dimmer(dimmer_action)
 
         print (" Executed the adaptation ")
         return "success"
