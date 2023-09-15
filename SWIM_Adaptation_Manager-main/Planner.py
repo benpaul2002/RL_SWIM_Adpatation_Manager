@@ -9,18 +9,28 @@ from Executor import Executor
 import json
 import datetime
 from datetime import datetime
+from QLearner import QLearner
+import math
 
 '''
 Possible actions are adaptation options which include
+0. Do nothing
 1. Add Server
 2. Remove Server
-3. increase dimer by 0.25
-4. decrease dimer by 0.25
-5. do nothing
-6. Add server and increase dimer by 0.25
-7. Add server and decrease dimer by 0.25
-8. Remove server and increase dimer by 0.25
-9. Remove server and decrease dimer by 0.25
+3. increase dimer by 0.1
+4. decrease dimer by 0.1
+5. Add server and increase dimer by 0.1
+6. Add server and decrease dimer by 0.1
+7. Remove server and increase dimer by 0.1
+8. Remove server and decrease dimer by 0.1
+'''
+
+'''
+State space is defined as follows:
+1. Number of servers in use
+2. Arrival rate
+3. Dimmer value
+4. Response time
 '''
 
 class Planner():
@@ -31,16 +41,15 @@ class Planner():
         self.arrival_rate = arrival_rate
         self.dimmer_value = dimmer_value
         self.connection_obj = connection_obj
+        self.alpha = 0.5
+        self.gamma = 0.9
+        self.epsilon = 0.1
+        self.num_actions = 9
+        self.learner = QLearner(self.num_actions,self.alpha,self.gamma,self.epsilon)
 
-
-    def generate_adaptation_plan(self,count):
+    def generate_adaptation_plan(self,count,num_iterations):
         # Use the reinforceer to generate the adaptation plan
         logger.info("Inside the planner: Generating the adaptation plan")
-
-        util_obj = Utility_Evaluator(self.server_in_use,self.arrival_rate,self.dimmer_value)
-        U_rt, U_ct, U_rt_star = util_obj.calculate_utility()
-
-        # Check if server can be added
 
         adap_status_json = {}
         with open("adap_status.json", "r") as json_file:
@@ -51,49 +60,43 @@ class Planner():
         server_added_time = datetime.strptime(server_add_time_string, '%Y-%m-%d %H:%M:%S')
         current_time = datetime.now()
 
-        server_add_flag = True
-        # Check if a server can be added by considering the latency of server addition
-        if (current_time - server_added_time).seconds >= 80:
-            server_add_flag = False
+        discretized_arrival_rate = 0
+        if self.arrival_rate < 10:
+            discretized_arrival_rate = 0
+        elif self.arrival_rate < 30:
+            discretized_arrival_rate = 1
+        elif self.arrival_rate < 60:
+            discretized_arrival_rate = 2
+        elif self.arrival_rate < 80:
+            discretized_arrival_rate = 3
+        else:
+            discretized_arrival_rate = 4
 
-        # Check if dimmer can be increased or decreased
-        dimmer_increase = True
-        dimmer_decrease = True
+        discretized_response_time = 0
+        if self.response_time < 0.5:
+            discretized_response_time = 0
+        elif self.response_time < 1.0:
+            discretized_response_time = 1
+        else:
+            discretized_response_time = 2
 
-        logger.info("Current dimmer value " + str(self.dimmer_value))
-
-        if self.dimmer_value == 1.0:
-            dimmer_increase = False
-        elif self.dimmer_value == 0.0:
-            dimmer_decrease = False
-
-        print (" dimmer flag status, increase : decrease " + str(dimmer_increase) + " : " + str(dimmer_decrease))
-        logger.info(" dimmer flag status, increase : decrease " + str(dimmer_increase) + " : " + str(dimmer_decrease))
-
-        action = [0, 0]
-        # Using a simple rule based approach for performing adaptation
-        if server_count < 3 and server_add_flag is False:
-            if dimmer_decrease is True:
-                action[0] = 1 # Add server and decrease dimmer
-                action[1] = -0.1
-            elif dimmer_decrease is False:
-                action[0] = 1  # add server
-
-        elif server_add_flag is True or server_count >= 3:
-            if dimmer_decrease is True:
-                action[1] = -0.1
-            # elif dimmer_decrease is False:
-            #     # There is nothing to be done cannot add server or cannot reduce dimmer
-            #     action = 5
-
-        if self.dimmer_value >= 0.8 and server_count > 1:
-            action[0] = -1
-
+        state = (self.server_in_use,discretized_arrival_rate,(int)(self.dimmer_value*10),discretized_response_time)
+        action = self.learner.choose_action(state,num_iterations)
+        
         execute_obj = Executor(self.dimmer_value,self.server_in_use,self.connection_obj)
 
         execute_obj.adaptation_executor(action)
 
+        # util_obj = Utility_Evaluator(self.server_in_use, self.arrival_rate, self.dimmer_value)
+        # U_rt, U_ct, U_rt_star = util_obj.calculate_utility()
+        # reward = U_rt - U_ct # Total utility is the difference between the utility of revenue and the utility of cost
+        # next_state = (self.server_in_use,self.arrival_rate,self.dimmer_value,self.response_time)
+        # self.learn(state,action,reward,next_state)
+
         print (" Adaptation executed ")
 
+        return action
 
-
+    def learn(self,state,action,reward,next_state):
+        
+        self.learner.learn(state, action, reward, next_state)

@@ -9,15 +9,15 @@ init_obj = Initialize()
 
 
 class Utility_Evaluator():
-    def __init__(self,server_in_use,arrival_rate,dimmer_value):
+    def __init__(self):
         self.s_star = 3 # the maximum number of servers
-        self.server_in_use = server_in_use
-        self.arrival_rate = arrival_rate
-        self.dimmer_value = dimmer_value
         self.time_interval = 60
         self.cost = 1
 
-    def calculate_utility(self):
+    def calculate_utility(self,server_in_use,arrival_rate,dimmer_value):
+        self.server_in_use = server_in_use
+        self.arrival_rate = arrival_rate
+        self.dimmer_value = dimmer_value
         # Calcuate the two utility of cost and revenue here
         logger.info("calculating the utility values")
         U_rt = self.time_interval * self.arrival_rate * (self.dimmer_value * init_obj.r_opt + (1 - self.dimmer_value) * init_obj.r_man)
