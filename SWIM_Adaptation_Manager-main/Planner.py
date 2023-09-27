@@ -41,7 +41,10 @@ class Planner():
         self.arrival_rate = arrival_rate
         self.dimmer_value = dimmer_value
         self.connection_obj = connection_obj
+        # self.alpha = 0.5
+        # self.alpha = 0.9
         self.alpha = 0.5
+        # self.alpha = 0.2
         self.gamma = 0.9
         self.epsilon = 0.1
         self.num_actions = 9
@@ -93,10 +96,10 @@ class Planner():
         # next_state = (self.server_in_use,self.arrival_rate,self.dimmer_value,self.response_time)
         # self.learn(state,action,reward,next_state)
 
-        print (" Adaptation executed ")
+        # print (" Adaptation executed ")
 
         return action
 
-    def learn(self,state,action,reward,next_state):
+    def learn(self,state,action,reward,next_state, num_iterations):
         
-        self.learner.learn(state, action, reward, next_state)
+        self.learner.learn(state, action, reward, next_state, num_iterations)

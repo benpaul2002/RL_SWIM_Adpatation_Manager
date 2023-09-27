@@ -27,7 +27,7 @@ class Executor():
         
         logger.info("inside add server module")
         # To add server in swim
-        print (" Adding Server ")
+        # print (" Adding Server ")
         host = self.host
         port = self.port  # The same port as used by the server
         try:
@@ -36,7 +36,7 @@ class Executor():
             s.sendall(b'add_server')
             data = s.recv(1024)
             s.close()
-            print(str(data.decode("utf-8")))
+            # print(str(data.decode("utf-8")))
             server_add_flag = True
             server_add_time = datetime.now() # This will be the time when a server has been added
             server_add_time_string = server_add_time.strftime('%Y-%m-%d %H:%M:%S')
@@ -65,7 +65,7 @@ class Executor():
         if(self.dimmer_value == 0.0 and change_flag == "decrease"):
             return
         logger.info("inside change dimer module, change flag " + str(change_flag))
-        print("Changing dimer ", change_flag)
+        # print("Changing dimer ", change_flag)
         host = init_obj.host
         port = init_obj.port  # The same port as used by the server
         try:
@@ -80,8 +80,8 @@ class Executor():
             value = str.encode(value)
             s.sendall(b'set_dimmer ' + value)
             data = s.recv(1024)
-            print (" dimmer status ")
-            print(str(data.decode("utf-8")))
+            # print (" dimmer status ")
+            # print(str(data.decode("utf-8")))
             s.close()
         except Exception as e:
             logger.error(e)
@@ -95,7 +95,7 @@ class Executor():
         
         logger.info("removing server")
         # To remove server in swim
-        print (" Removing Server ")
+        # print (" Removing Server ")
         host = self.host
         port = self.port  # The same port as used by the server
 
@@ -130,7 +130,7 @@ class Executor():
             with open("adap_status.json", "w") as json_file:
                 json.dump(server_json, json_file)
             json_file.close()
-            print(str(data.decode("utf-8")))
+            # print(str(data.decode("utf-8")))
             self.server_remove_flag = True
             self.server_remove_time = datetime.now()
             logger.info("server removed successfully")
@@ -143,57 +143,57 @@ class Executor():
     def adaptation_executor(self,action):
         if action == 0:
             logger.info("No adaptation required")
-            print (" No adaptation required ")
+            # print (" No adaptation required ")
             return "success"
         # no action will be automatically taken care
         logger.info("Inside the Executor: executing the adaptations")
         if action == 1:
             #Add server first check if the server is already full
             if self.server_in_use == 3:
-                print("Tried adding server but hit server limit")
+                # print("Tried adding server but hit server limit")
                 return "success"
             
             self.add_server()
             self.strategy = [["add_server",1.0,60.0]]
-            print("Adding server")
+            # print("Adding server")
         elif action == 2:
             # Remove a server
             self.remove_server()
             self.strategy = [["remove_server", 1.0,-1.0]]
-            print("Removing server")
+            # print("Removing server")
 
         elif action == 3:
             self.change_dimmer("increase")
-            print("Increasing dimmer")
+            # print("Increasing dimmer")
         elif action == 4:
             self.change_dimmer("decrease")
-            print("Decreasing dimmer")
+            # print("Decreasing dimmer")
 
         elif action == 5:
             if self.server_in_use == 3:
-                print("Tried adding server but hit server limit")
+                # print("Tried adding server but hit server limit")
                 return "success"
             self.add_server()
             self.change_dimmer("increase")
-            print("Adding server and increasing dimmer")
+            # print("Adding server and increasing dimmer")
 
         elif action == 6:
             if self.server_in_use == 3:
-                print("Tried adding server but hit server limit")
+                # print("Tried adding server but hit server limit")
                 return "success"
             self.add_server()
             self.change_dimmer("decrease")
-            print("Adding server and decreasing dimmer")
+            # print("Adding server and decreasing dimmer")
 
         elif action ==  7:
             self.remove_server()
             self.change_dimmer("increase")
-            print("Removing server and increasing dimmer")
+            # print("Removing server and increasing dimmer")
 
         elif action == 8:
             self.remove_server()
             self.change_dimmer("decrease")
-            print("Removing server and decreasing dimmer")
+            # print("Removing server and decreasing dimmer")
 
-        print (" Executed the adaptation ")
+        # print (" Executed the adaptation ")
         return "success"

@@ -1,0 +1,431 @@
+2023-09-26 09:28:13 DEBUG Logger Initialized
+2023-09-26 09:28:13 INFO running the adaptation effector module
+2023-09-26 09:28:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:28:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:28:13 INFO No adaptation required
+2023-09-26 09:29:13 INFO calculating the utility values
+2023-09-26 09:29:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:29:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:29:13 INFO No adaptation required
+2023-09-26 09:30:13 INFO calculating the utility values
+2023-09-26 09:30:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:30:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:30:13 INFO No adaptation required
+2023-09-26 09:31:13 INFO calculating the utility values
+2023-09-26 09:31:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:31:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:31:13 INFO No adaptation required
+2023-09-26 09:32:13 INFO calculating the utility values
+2023-09-26 09:32:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:32:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:32:13 INFO No adaptation required
+2023-09-26 09:33:13 INFO calculating the utility values
+2023-09-26 09:33:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:33:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:33:13 INFO No adaptation required
+2023-09-26 09:34:13 INFO calculating the utility values
+2023-09-26 09:34:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:34:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:34:13 INFO No adaptation required
+2023-09-26 09:35:13 INFO calculating the utility values
+2023-09-26 09:35:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:35:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:35:13 INFO No adaptation required
+2023-09-26 09:36:13 INFO calculating the utility values
+2023-09-26 09:36:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:36:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:36:13 INFO No adaptation required
+2023-09-26 09:37:13 INFO calculating the utility values
+2023-09-26 09:37:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:37:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:37:13 INFO No adaptation required
+2023-09-26 09:38:13 INFO calculating the utility values
+2023-09-26 09:38:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:38:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:38:13 INFO No adaptation required
+2023-09-26 09:39:13 INFO calculating the utility values
+2023-09-26 09:39:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:39:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:39:13 INFO No adaptation required
+2023-09-26 09:40:13 INFO calculating the utility values
+2023-09-26 09:40:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:40:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:40:13 INFO No adaptation required
+2023-09-26 09:41:13 INFO calculating the utility values
+2023-09-26 09:41:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:41:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:41:13 INFO No adaptation required
+2023-09-26 09:42:13 INFO calculating the utility values
+2023-09-26 09:42:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:42:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:42:13 INFO No adaptation required
+2023-09-26 09:43:13 INFO calculating the utility values
+2023-09-26 09:43:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:43:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:43:13 INFO No adaptation required
+2023-09-26 09:44:13 INFO calculating the utility values
+2023-09-26 09:44:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:44:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:44:13 INFO No adaptation required
+2023-09-26 09:45:13 INFO calculating the utility values
+2023-09-26 09:45:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:45:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:45:13 INFO No adaptation required
+2023-09-26 09:46:13 INFO calculating the utility values
+2023-09-26 09:46:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:46:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:46:13 INFO No adaptation required
+2023-09-26 09:47:13 INFO calculating the utility values
+2023-09-26 09:47:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:47:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:47:13 INFO No adaptation required
+2023-09-26 09:48:13 INFO calculating the utility values
+2023-09-26 09:48:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:48:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:48:13 INFO No adaptation required
+2023-09-26 09:49:13 INFO calculating the utility values
+2023-09-26 09:49:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:49:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:49:13 INFO No adaptation required
+2023-09-26 09:50:13 INFO calculating the utility values
+2023-09-26 09:50:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:50:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:50:13 INFO No adaptation required
+2023-09-26 09:51:13 INFO calculating the utility values
+2023-09-26 09:51:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:51:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:51:13 INFO No adaptation required
+2023-09-26 09:52:13 INFO calculating the utility values
+2023-09-26 09:52:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:52:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:52:13 INFO No adaptation required
+2023-09-26 09:53:13 INFO calculating the utility values
+2023-09-26 09:53:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:53:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:53:13 INFO No adaptation required
+2023-09-26 09:54:13 INFO calculating the utility values
+2023-09-26 09:54:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:54:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:54:13 INFO No adaptation required
+2023-09-26 09:55:13 INFO calculating the utility values
+2023-09-26 09:55:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:55:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:55:13 INFO No adaptation required
+2023-09-26 09:56:13 INFO calculating the utility values
+2023-09-26 09:56:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:56:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:56:13 INFO No adaptation required
+2023-09-26 09:57:13 INFO calculating the utility values
+2023-09-26 09:57:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:57:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:57:13 INFO No adaptation required
+2023-09-26 09:58:13 INFO calculating the utility values
+2023-09-26 09:58:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:58:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:58:13 INFO No adaptation required
+2023-09-26 09:59:13 INFO calculating the utility values
+2023-09-26 09:59:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 09:59:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 09:59:13 INFO No adaptation required
+2023-09-26 10:00:13 INFO calculating the utility values
+2023-09-26 10:00:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:00:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:00:13 INFO No adaptation required
+2023-09-26 10:01:13 INFO calculating the utility values
+2023-09-26 10:01:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:01:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:01:13 INFO No adaptation required
+2023-09-26 10:02:13 INFO calculating the utility values
+2023-09-26 10:02:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:02:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:02:13 INFO No adaptation required
+2023-09-26 10:03:13 INFO calculating the utility values
+2023-09-26 10:03:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:03:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:03:13 INFO No adaptation required
+2023-09-26 10:04:13 INFO calculating the utility values
+2023-09-26 10:04:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:04:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:04:13 INFO No adaptation required
+2023-09-26 10:05:13 INFO calculating the utility values
+2023-09-26 10:05:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:05:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:05:13 INFO No adaptation required
+2023-09-26 10:06:13 INFO calculating the utility values
+2023-09-26 10:06:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:06:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:06:13 INFO No adaptation required
+2023-09-26 10:07:13 INFO calculating the utility values
+2023-09-26 10:07:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:07:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:07:13 INFO No adaptation required
+2023-09-26 10:08:13 INFO calculating the utility values
+2023-09-26 10:08:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:08:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:08:13 INFO No adaptation required
+2023-09-26 10:09:13 INFO calculating the utility values
+2023-09-26 10:09:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:09:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:09:13 INFO No adaptation required
+2023-09-26 10:10:13 INFO calculating the utility values
+2023-09-26 10:10:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:10:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:10:13 INFO No adaptation required
+2023-09-26 10:11:13 INFO calculating the utility values
+2023-09-26 10:11:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:11:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:11:13 INFO No adaptation required
+2023-09-26 10:12:13 INFO calculating the utility values
+2023-09-26 10:12:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:12:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:12:13 INFO No adaptation required
+2023-09-26 10:13:13 INFO calculating the utility values
+2023-09-26 10:13:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:13:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:13:13 INFO No adaptation required
+2023-09-26 10:14:13 INFO calculating the utility values
+2023-09-26 10:14:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:14:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:14:13 INFO No adaptation required
+2023-09-26 10:15:13 INFO calculating the utility values
+2023-09-26 10:15:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:15:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:15:13 INFO No adaptation required
+2023-09-26 10:16:13 INFO calculating the utility values
+2023-09-26 10:16:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:16:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:16:13 INFO No adaptation required
+2023-09-26 10:17:13 INFO calculating the utility values
+2023-09-26 10:17:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:17:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:17:13 INFO No adaptation required
+2023-09-26 10:18:13 INFO calculating the utility values
+2023-09-26 10:18:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:18:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:18:13 INFO No adaptation required
+2023-09-26 10:19:13 INFO calculating the utility values
+2023-09-26 10:19:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:19:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:19:13 INFO No adaptation required
+2023-09-26 10:20:13 INFO calculating the utility values
+2023-09-26 10:20:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:20:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:20:13 INFO No adaptation required
+2023-09-26 10:21:13 INFO calculating the utility values
+2023-09-26 10:21:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:21:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:21:13 INFO No adaptation required
+2023-09-26 10:22:13 INFO calculating the utility values
+2023-09-26 10:22:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:22:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:22:13 INFO No adaptation required
+2023-09-26 10:23:13 INFO calculating the utility values
+2023-09-26 10:23:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:23:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:23:13 INFO No adaptation required
+2023-09-26 10:24:13 INFO calculating the utility values
+2023-09-26 10:24:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:24:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:24:13 INFO No adaptation required
+2023-09-26 10:25:13 INFO calculating the utility values
+2023-09-26 10:25:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:25:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:25:13 INFO No adaptation required
+2023-09-26 10:26:13 INFO calculating the utility values
+2023-09-26 10:26:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:26:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:26:13 INFO No adaptation required
+2023-09-26 10:27:13 INFO calculating the utility values
+2023-09-26 10:27:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:27:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:27:13 INFO No adaptation required
+2023-09-26 10:28:13 INFO calculating the utility values
+2023-09-26 10:28:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:28:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:28:13 INFO No adaptation required
+2023-09-26 10:29:13 INFO calculating the utility values
+2023-09-26 10:29:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:29:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:29:13 INFO No adaptation required
+2023-09-26 10:30:13 INFO calculating the utility values
+2023-09-26 10:30:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:30:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:30:13 INFO No adaptation required
+2023-09-26 10:31:13 INFO calculating the utility values
+2023-09-26 10:31:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:31:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:31:13 INFO No adaptation required
+2023-09-26 10:32:13 INFO calculating the utility values
+2023-09-26 10:32:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:32:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:32:13 INFO No adaptation required
+2023-09-26 10:33:13 INFO calculating the utility values
+2023-09-26 10:33:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:33:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:33:13 INFO No adaptation required
+2023-09-26 10:34:13 INFO calculating the utility values
+2023-09-26 10:34:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:34:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:34:13 INFO No adaptation required
+2023-09-26 10:35:13 INFO calculating the utility values
+2023-09-26 10:35:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:35:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:35:13 INFO No adaptation required
+2023-09-26 10:36:13 INFO calculating the utility values
+2023-09-26 10:36:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:36:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:36:13 INFO No adaptation required
+2023-09-26 10:37:13 INFO calculating the utility values
+2023-09-26 10:37:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:37:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:37:13 INFO No adaptation required
+2023-09-26 10:38:13 INFO calculating the utility values
+2023-09-26 10:38:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:38:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:38:13 INFO No adaptation required
+2023-09-26 10:39:13 INFO calculating the utility values
+2023-09-26 10:39:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:39:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:39:13 INFO No adaptation required
+2023-09-26 10:40:13 INFO calculating the utility values
+2023-09-26 10:40:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:40:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:40:13 INFO No adaptation required
+2023-09-26 10:41:13 INFO calculating the utility values
+2023-09-26 10:41:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:41:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:41:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:41:13 INFO inside change dimer module, change flag increase
+2023-09-26 10:42:13 INFO calculating the utility values
+2023-09-26 10:42:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:42:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:42:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:43:13 INFO calculating the utility values
+2023-09-26 10:43:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:43:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:43:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:44:13 INFO calculating the utility values
+2023-09-26 10:44:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:44:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:44:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:45:13 INFO calculating the utility values
+2023-09-26 10:45:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:45:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:45:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:46:13 INFO calculating the utility values
+2023-09-26 10:46:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:46:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:46:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:47:13 INFO calculating the utility values
+2023-09-26 10:47:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:47:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:47:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:48:13 INFO calculating the utility values
+2023-09-26 10:48:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:48:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:48:13 INFO No adaptation required
+2023-09-26 10:49:13 INFO calculating the utility values
+2023-09-26 10:49:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:49:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:49:13 INFO No adaptation required
+2023-09-26 10:50:13 INFO calculating the utility values
+2023-09-26 10:50:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:50:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:50:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:51:13 INFO calculating the utility values
+2023-09-26 10:51:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:51:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:51:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:52:13 INFO calculating the utility values
+2023-09-26 10:52:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:52:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:52:13 INFO No adaptation required
+2023-09-26 10:53:13 INFO calculating the utility values
+2023-09-26 10:53:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:53:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:53:13 INFO No adaptation required
+2023-09-26 10:54:13 INFO calculating the utility values
+2023-09-26 10:54:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:54:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:54:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:55:13 INFO calculating the utility values
+2023-09-26 10:55:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:55:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:55:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:56:13 INFO calculating the utility values
+2023-09-26 10:56:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:56:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:56:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:57:13 INFO calculating the utility values
+2023-09-26 10:57:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:57:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:57:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:58:13 INFO calculating the utility values
+2023-09-26 10:58:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:58:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:58:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 10:59:13 INFO calculating the utility values
+2023-09-26 10:59:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 10:59:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 10:59:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:00:13 INFO calculating the utility values
+2023-09-26 11:00:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:00:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:00:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:01:13 INFO calculating the utility values
+2023-09-26 11:01:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:01:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:01:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:02:13 INFO calculating the utility values
+2023-09-26 11:02:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:02:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:02:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:03:13 INFO calculating the utility values
+2023-09-26 11:03:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:03:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:03:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:04:13 INFO calculating the utility values
+2023-09-26 11:04:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:04:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:04:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:05:13 INFO calculating the utility values
+2023-09-26 11:05:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:05:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:05:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:06:13 INFO calculating the utility values
+2023-09-26 11:06:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:06:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:06:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:07:13 INFO calculating the utility values
+2023-09-26 11:07:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:07:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:07:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:08:13 INFO calculating the utility values
+2023-09-26 11:08:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:08:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:08:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:09:13 INFO calculating the utility values
+2023-09-26 11:09:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:09:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:09:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:10:13 INFO calculating the utility values
+2023-09-26 11:10:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:10:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:10:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:11:13 INFO calculating the utility values
+2023-09-26 11:11:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:11:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:11:13 INFO Inside the Executor: executing the adaptations
+2023-09-26 11:12:13 INFO calculating the utility values
+2023-09-26 11:12:13 INFO Inside the Analyzer: Performing the analysis
+2023-09-26 11:12:13 INFO Inside the planner: Generating the adaptation plan
+2023-09-26 11:12:13 INFO No adaptation required
+2023-09-26 11:13:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:14:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:15:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:16:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:17:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:18:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:19:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:20:13 ERROR [Errno 104] Connection reset by peer
+2023-09-26 11:21:13 ERROR [Errno 104] Connection reset by peer

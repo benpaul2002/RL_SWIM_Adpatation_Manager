@@ -42,24 +42,24 @@ class Monitor():
             new_state = {}
             if (new_time - start_time).seconds >= 60:
                 try:
-                    print((new_time - start_time).seconds)
+                    # print((new_time - start_time).seconds)
+                    print("Number of iterations: ", num_iterations)
                     host = init_obj.host
                     port = init_obj.port  # The same port as used by the server
                     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
                     conn = s.connect((host, port))
 
+                    print("Stats: ")
+
                     s.sendall(b'get_basic_rt')
                     data = s.recv(1024)
                     response_time_base = str(data.decode("utf-8"))
 
-
-
                     s.sendall(b'get_opt_rt')
                     data = s.recv(1024)
                     response_time_opt = str(data.decode("utf-8"))
-
                     response_time = (float(response_time_base) + float(response_time_opt)) / 2.0
-                    print (" Response time", response_time)
+                    print ("Response time ", response_time)
                     monitor_dict["response_time"] = response_time
                     new_state["response_time"] = math.floor(response_time)
 
@@ -78,7 +78,7 @@ class Monitor():
                     data = s.recv(1024)
                     dimmer_value = float(str(data.decode("utf-8")))
 
-                    print (" current dimmer ", str(dimmer_value))
+                    print ("Current dimmer ", str(dimmer_value))
                     monitor_dict["dimmer_value"] = dimmer_value
                     new_state["dimmer_value"] = math.floor(dimmer_value*10)
 
@@ -105,46 +105,103 @@ class Monitor():
                         # print("Cost: ", U_ct)
                         reward = 0
 
-                        # ----------------------------------------------------
-                        if response_time > 1:
-                            print("Response time too high - penalizing ", 300*(math.floor(response_time)))
-                            reward -= 300*(math.floor(response_time))
-                        if response_time < 0.5:
-                            if response_time < 0.1 and server_in_use > 1:
-                                print("Too many servers - penalizing 200")
-                                reward -= 200               # completely unnecessary since response time is already pretty good - why more than one server?
-                            elif response_time < 0.3 and server_in_use > 2:
-                                print("Too many servers - penalizing 200")
-                                reward -= 200
-                            else:
-                                print("Response time low - rewarding 200")
-                                reward += 200
+                        # # ----------------------------------------------------
+                        # if response_time > 1:
+                        #     print("Response time too high - penalizing ", 50*(math.floor(response_time)))
+                        #     reward -= 50*(math.floor(response_time))
+                        # elif response_time > 0.5:
+                        #     print("Response time slightly high - penalizing ", 10*(math.floor(response_time)))
+                        #     reward -= 10*(math.floor(response_time))
+                        # elif response_time < 2:
+                        #     if response_time < 0.1 and server_in_use > 1:
+                        #         print("Too many servers - penalizing")
+                        #         reward -= 500               # completely unnecessary since response time is already pretty good - why more than one server?
+                        #     elif response_time < 0.3 and server_in_use > 2:
+                        #         print("Too many servers - penalizing")
+                        #         reward -= 500
+                        #     else: 
+                        #         print("Response time low - rewarding")
+                        #         reward += 600
                                 
-                        # ----------------------------------------------------
-                        if dimmer_value < 0.2:
-                            print("Dimmer value below 0.2 - penalizing 100")
-                            reward -= 100
-                        elif dimmer_value < 0.5:
-                            print("Dimmer value between 0.2 and 0.5 - penalizing 50")
-                            reward -= 50
-                        elif dimmer_value < 0.8:
-                            print("Dimmer value between 0.5 and 0.8 - rewarding 50")
-                            reward += 50
+                        # # ----------------------------------------------------
+                        # if dimmer_value < 0.2:
+                        #     print("Dimmer value below 0.2 - penalizing 100")
+                        #     reward -= 400
+                        # elif dimmer_value < 0.5:
+                        #     print("Dimmer value between 0.2 and 0.5 - penalizing 50")
+                        #     reward -= 150
+                        # elif dimmer_value < 0.8:
+                        #     print("Dimmer value between 0.5 and 0.8 - rewarding 50")
+                        #     reward += 200
+                        # else:
+                        #     print("Dimmer value above 0.8 - rewarding 100")
+                        #     reward += 400
+                        # # ----------------------------------------------------
+
+                        # new conditions
+
+                        # if(server_in_use == 1 and response_time < 2 and dimmer_value >= 0.7):
+                        #     reward = 1000
+                        # elif(server_in_use == 1 and response_time < 2 and dimmer_value < 0.7):
+                        #     reward = 500*(dimmer_value+0.3)
+                        # elif(server_in_use == 1 and response_time >= 2 and dimmer_value >= 0.7):
+                        #     reward = -200*(response_time*2)
+                        # elif(server_in_use == 1 and response_time >= 2 and dimmer_value < 0.7):
+                        #     reward = -500*(response_time*2) - 500*(1/(dimmer_value+0.3))
+                        # elif(server_in_use == 2 and response_time < 2 and dimmer_value >= 0.7):
+                        #     reward = 700
+                        # elif(server_in_use == 2 and response_time < 2 and dimmer_value < 0.7):
+                        #     reward = 200*(dimmer_value+0.3)
+                        # elif(server_in_use == 2 and response_time >= 2 and dimmer_value >= 0.7):
+                        #     reward = -700*(response_time*2)
+                        # elif(server_in_use == 2 and response_time >= 2 and dimmer_value < 0.7):
+                        #     reward = -600*(response_time*2) - 600*(1/(dimmer_value+0.3))
+                        # elif(server_in_use == 3 and response_time < 2 and dimmer_value >= 0.7):
+                        #     reward = 400
+                        # elif(server_in_use == 3 and response_time < 2 and dimmer_value < 0.7):
+                        #     reward = 100*(dimmer_value+0.3)
+                        # elif(server_in_use == 3 and response_time >= 2 and dimmer_value >= 0.7):
+                        #     reward = -1200*(response_time*2)
+                        # elif(server_in_use == 3 and response_time >= 2 and dimmer_value < 0.7):
+                        #     reward = -750*(response_time*2) - 750*(1/(dimmer_value+0.3))
+
+                        # newer conditions - trial
+
+                        resp_reward = 0
+                        if response_time < 1:
+                            resp_reward = 1000/server_in_use
                         else:
-                            print("Dimmer value above 0.8 - rewarding 100")
-                            reward += 100
-                        # ----------------------------------------------------
+                            resp_reward = -50*response_time
+
+                        dim_reward = 0
+                        if dimmer_value > 0.65:
+                            dim_reward = (dimmer_value-0.65)*2000  # 0 - 700
+                        else:
+                            dim_reward = -2000*(0.65-dimmer_value)  # -1300 - 0 
+
+                        # server_reward = 0
+                        # if server_in_use == 1:
+                        #     server_reward = 300
+                        # elif server_in_use == 2:
+                        #     server_reward = 0
+                        # else:
+                        #     server_reward = -300
+
+                        reward = resp_reward + dim_reward
                         
                         print("Reward ", reward)
                         plan_obj = Planner(old_state['response_time'], old_state['active_servers'], old_state["arrival_rate"], old_state["dimmer_value"], conn)
-                        print("Updating Q values")
-                        plan_obj.learn(old_state,old_action,reward,new_state)
+                        # print("Updating Q values")
+                        plan_obj.learn(old_state,old_action,reward,new_state, num_iterations)
 
                     old_state = new_state
 
                     # if new_action:
                     old_action = new_action
                     new_action = analyzer_obj.perform_analysis(monitor_dict,conn,num_iterations) # This will pass the control to the next class
+
+                    print("----------------------------------------------")
+                    print()
 
                 except Exception as e:
                     logger.error(e)
