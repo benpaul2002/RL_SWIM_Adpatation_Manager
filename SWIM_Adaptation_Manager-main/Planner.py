@@ -46,7 +46,7 @@ class Planner():
         self.alpha = 0.5
         # self.alpha = 0.2
         self.gamma = 0.9
-        self.epsilon = 0.1
+        self.epsilon = 0.9
         self.num_actions = 9
         self.learner = QLearner(self.num_actions,self.alpha,self.gamma,self.epsilon)
 

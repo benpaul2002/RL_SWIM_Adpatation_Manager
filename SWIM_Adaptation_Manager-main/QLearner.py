@@ -7,7 +7,7 @@ Q_VALUES_FILE_NAME = './Q_folder/12-q_values.json'
 TESTING = True
 
 class QLearner:
-    def __init__(self, num_actions, alpha=0.5, gamma=0.9, epsilon=0.1):
+    def __init__(self, num_actions, alpha=0.5, gamma=0.9, epsilon=0.9):
         self.num_actions = num_actions
         self.alpha = alpha
         self.gamma = gamma
@@ -42,8 +42,8 @@ class QLearner:
         
         else:
             # if np.random.uniform() < self.epsilon * (9-(num_iterations/10)):
-            if np.random.uniform() < self.epsilon * (9-(9*(num_iterations/400))):
-                print("Exploring: Epsilon: ", self.epsilon * (9-(9*(num_iterations/400))))
+            if np.random.uniform() < self.epsilon:
+                print("Exploring: Epsilon: ", self.epsilon)
                 while(1):
                     action = np.random.choice(self.num_actions)
                     if action == 1 and server_in_use == 3:
@@ -84,7 +84,7 @@ class QLearner:
                         return action
                 # action = np.random.choice(self.num_actions)
             else:
-                print("Exploiting: Epsilon: ", self.epsilon * (9-(9*(num_iterations/400))))
+                print("Exploiting: Epsilon: ", self.epsilon)
                 print(state)
                 q_values = self.q_table[server_in_use][arrival_rate][dimmer_value][response_time]
                 action = np.argmax(q_values)
