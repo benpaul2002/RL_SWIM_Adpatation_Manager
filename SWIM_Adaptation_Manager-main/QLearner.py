@@ -3,8 +3,8 @@ import json
 import os
 # from InitializeQValues import initialize_q_values
 
-Q_VALUES_FILE_NAME = './Q_folder/12-q_values.json'
-TESTING = True
+Q_VALUES_FILE_NAME = './Q_folder/13-q_values.json'
+TESTING = False
 
 class QLearner:
     def __init__(self, num_actions, alpha=0.5, gamma=0.9, epsilon=0.9):
@@ -121,6 +121,7 @@ class QLearner:
             discretized_old_arrival_rate = 0
         elif cur_arrival_rate < 30:
             discretized_old_arrival_rate = 1
+        # to comment
         elif cur_arrival_rate < 60:
             discretized_old_arrival_rate = 2
         elif cur_arrival_rate < 80:
@@ -141,6 +142,7 @@ class QLearner:
             discretized_new_arrival_rate = 0
         elif next_arrival_rate < 30:
             discretized_new_arrival_rate = 1
+        # to comment
         elif next_arrival_rate < 60:
             discretized_new_arrival_rate = 2
         elif next_arrival_rate < 80:

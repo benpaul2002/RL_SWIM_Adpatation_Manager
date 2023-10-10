@@ -46,7 +46,7 @@ class Planner():
         self.alpha = 0.5
         # self.alpha = 0.2
         self.gamma = 0.9
-        self.epsilon = 0.9
+        self.epsilon = 0.2
         self.num_actions = 9
         self.learner = QLearner(self.num_actions,self.alpha,self.gamma,self.epsilon)
 
@@ -68,6 +68,7 @@ class Planner():
             discretized_arrival_rate = 0
         elif self.arrival_rate < 30:
             discretized_arrival_rate = 1
+        # to comment
         elif self.arrival_rate < 60:
             discretized_arrival_rate = 2
         elif self.arrival_rate < 80:

@@ -140,44 +140,48 @@ class Monitor():
 
                         # new conditions
 
-                        # if(server_in_use == 1 and response_time < 2 and dimmer_value >= 0.7):
-                        #     reward = 1000
-                        # elif(server_in_use == 1 and response_time < 2 and dimmer_value < 0.7):
-                        #     reward = 500*(dimmer_value+0.3)
-                        # elif(server_in_use == 1 and response_time >= 2 and dimmer_value >= 0.7):
-                        #     reward = -200*(response_time*2)
-                        # elif(server_in_use == 1 and response_time >= 2 and dimmer_value < 0.7):
-                        #     reward = -500*(response_time*2) - 500*(1/(dimmer_value+0.3))
-                        # elif(server_in_use == 2 and response_time < 2 and dimmer_value >= 0.7):
-                        #     reward = 700
-                        # elif(server_in_use == 2 and response_time < 2 and dimmer_value < 0.7):
-                        #     reward = 200*(dimmer_value+0.3)
-                        # elif(server_in_use == 2 and response_time >= 2 and dimmer_value >= 0.7):
-                        #     reward = -700*(response_time*2)
-                        # elif(server_in_use == 2 and response_time >= 2 and dimmer_value < 0.7):
-                        #     reward = -600*(response_time*2) - 600*(1/(dimmer_value+0.3))
-                        # elif(server_in_use == 3 and response_time < 2 and dimmer_value >= 0.7):
-                        #     reward = 400
-                        # elif(server_in_use == 3 and response_time < 2 and dimmer_value < 0.7):
-                        #     reward = 100*(dimmer_value+0.3)
-                        # elif(server_in_use == 3 and response_time >= 2 and dimmer_value >= 0.7):
-                        #     reward = -1200*(response_time*2)
-                        # elif(server_in_use == 3 and response_time >= 2 and dimmer_value < 0.7):
-                        #     reward = -750*(response_time*2) - 750*(1/(dimmer_value+0.3))
+                        if(server_in_use == 1 and response_time < 2 and dimmer_value >= 0.7):
+                            reward = 1000
+                        elif(server_in_use == 1 and response_time < 2 and dimmer_value < 0.7):
+                            reward = 500*(dimmer_value)
+                        elif(server_in_use == 1 and response_time >= 2 and dimmer_value >= 0.7):
+                            reward = -200*(response_time*2)
+                        elif(server_in_use == 1 and response_time >= 2 and dimmer_value < 0.7):
+                            reward = -500*(response_time*2) - 500*(1/(dimmer_value+0.1))
+                        elif(server_in_use == 2 and response_time < 2 and dimmer_value >= 0.7):
+                            reward = 700
+                        elif(server_in_use == 2 and response_time < 2 and dimmer_value < 0.7):
+                            reward = 200*(dimmer_value)
+                        elif(server_in_use == 2 and response_time >= 2 and dimmer_value >= 0.7):
+                            reward = -700*(response_time*2)
+                        elif(server_in_use == 2 and response_time >= 2 and dimmer_value < 0.7):
+                            reward = -600*(response_time*2) - 600*(1/(dimmer_value+0.1))
+                        elif(server_in_use == 3 and response_time < 2 and dimmer_value >= 0.7):
+                            reward = 400
+                        elif(server_in_use == 3 and response_time < 2 and dimmer_value < 0.7):
+                            reward = 100*(dimmer_value)
+                        elif(server_in_use == 3 and response_time >= 2 and dimmer_value >= 0.7):
+                            reward = -1200*(response_time*2)
+                        elif(server_in_use == 3 and response_time >= 2 and dimmer_value < 0.7):
+                            reward = -750*(response_time*2) - 750*(1/(dimmer_value+0.1))
+
+                        # to try
+                        # if(dimmer_value<0.2):
+                        #     reward = -1000
 
                         # newer conditions - trial
 
-                        resp_reward = 0
-                        if response_time < 1:
-                            resp_reward = 1000/server_in_use
-                        else:
-                            resp_reward = -50*response_time
+                        # resp_reward = 0
+                        # if response_time < 1:
+                        #     resp_reward = 1000/server_in_use
+                        # else:
+                        #     resp_reward = -50*response_time
 
-                        dim_reward = 0
-                        if dimmer_value > 0.65:
-                            dim_reward = (dimmer_value-0.65)*2000  # 0 - 700
-                        else:
-                            dim_reward = -2000*(0.65-dimmer_value)  # -1300 - 0 
+                        # dim_reward = 0
+                        # if dimmer_value > 0.65:
+                        #     dim_reward = (dimmer_value-0.65)*2000  # 0 - 700
+                        # else:
+                        #     dim_reward = -2000*(0.65-dimmer_value)  # -1300 - 0 
 
                         # server_reward = 0
                         # if server_in_use == 1:
@@ -187,7 +191,7 @@ class Monitor():
                         # else:
                         #     server_reward = -300
 
-                        reward = resp_reward + dim_reward
+                        # reward = resp_reward + dim_reward
                         
                         print("Reward ", reward)
                         plan_obj = Planner(old_state['response_time'], old_state['active_servers'], old_state["arrival_rate"], old_state["dimmer_value"], conn)
