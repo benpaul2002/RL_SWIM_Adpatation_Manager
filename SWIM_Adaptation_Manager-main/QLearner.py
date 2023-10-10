@@ -3,7 +3,7 @@ import json
 import os
 # from InitializeQValues import initialize_q_values
 
-Q_VALUES_FILE_NAME = './Q_folder/13-q_values.json'
+Q_VALUES_FILE_NAME = './Q_folder/14-q_values.json'
 TESTING = False
 
 class QLearner:
@@ -17,7 +17,7 @@ class QLearner:
             with open(Q_VALUES_FILE_NAME, 'r') as f:
                 self.q_table = np.array(json.load(f))
         else:
-            self.initialize_q_values(4, 5, 11, 3, 9)
+            self.initialize_q_values(4, 3, 3, 3, 5)
             print("Initialized empty Q table")
             # print(self.q_table.shape)
     
@@ -54,14 +54,14 @@ class QLearner:
                         continue
                     elif action == 4 and dimmer_value == 0:
                         continue
-                    elif action == 5 and (server_in_use == 3 or dimmer_value == 10):
-                        continue
-                    elif action == 6 and (server_in_use == 3 or dimmer_value == 0):
-                        continue
-                    elif action == 7 and (server_in_use == 1 or dimmer_value == 10):
-                        continue
-                    elif action == 8 and (server_in_use == 1 or dimmer_value == 0):
-                        continue
+                    # elif action == 5 and (server_in_use == 3 or dimmer_value == 10):
+                    #     continue
+                    # elif action == 6 and (server_in_use == 3 or dimmer_value == 0):
+                    #     continue
+                    # elif action == 7 and (server_in_use == 1 or dimmer_value == 10):
+                    #     continue
+                    # elif action == 8 and (server_in_use == 1 or dimmer_value == 0):
+                    #     continue
                     else:
                         if action == 0:
                             print("No adaptation required")
@@ -73,14 +73,14 @@ class QLearner:
                             print("Increasing dimmer")
                         if action == 4:
                             print("Decreasing dimmer")
-                        if action == 5:
-                            print("Adding server and increasing dimmer")
-                        if action == 6:
-                            print("Adding server and decreasing dimmer")
-                        if action == 7:
-                            print("Removing server and increasing dimmer")
-                        if action == 8:
-                            print("Removing server and decreasing dimmer")
+                        # if action == 5:
+                        #     print("Adding server and increasing dimmer")
+                        # if action == 6:
+                        #     print("Adding server and decreasing dimmer")
+                        # if action == 7:
+                        #     print("Removing server and increasing dimmer")
+                        # if action == 8:
+                        #     print("Removing server and decreasing dimmer")
                         return action
                 # action = np.random.choice(self.num_actions)
             else:
@@ -122,12 +122,12 @@ class QLearner:
         elif cur_arrival_rate < 30:
             discretized_old_arrival_rate = 1
         # to comment
-        elif cur_arrival_rate < 60:
-            discretized_old_arrival_rate = 2
-        elif cur_arrival_rate < 80:
-            discretized_old_arrival_rate = 3
+        # elif cur_arrival_rate < 60:
+        #     discretized_old_arrival_rate = 2
+        # elif cur_arrival_rate < 80:
+        #     discretized_old_arrival_rate = 3
         else:
-            discretized_old_arrival_rate = 4
+            discretized_old_arrival_rate = 2
 
         discretized_old_response_time = 0
         if cur_response_time < 0.5:
@@ -137,18 +137,26 @@ class QLearner:
         else:
             discretized_old_response_time = 2
 
+        discretized_old_dimmer_value = 0
+        if cur_dimmer_value < 0.3:
+            discretized_old_dimmer_value = 0
+        elif cur_dimmer_value < 0.6:
+            discretized_old_dimmer_value = 1
+        else:
+            discretized_old_dimmer_value = 2
+
         discretized_new_arrival_rate = 0
         if next_arrival_rate < 10:
             discretized_new_arrival_rate = 0
         elif next_arrival_rate < 30:
             discretized_new_arrival_rate = 1
         # to comment
-        elif next_arrival_rate < 60:
-            discretized_new_arrival_rate = 2
-        elif next_arrival_rate < 80:
-            discretized_new_arrival_rate = 3
+        # elif next_arrival_rate < 60:
+        #     discretized_new_arrival_rate = 2
+        # elif next_arrival_rate < 80:
+        #     discretized_new_arrival_rate = 3
         else:
-            discretized_new_arrival_rate = 4
+            discretized_new_arrival_rate = 2
 
         discretized_new_response_time = 0
         if next_response_time < 0.5:
@@ -158,10 +166,18 @@ class QLearner:
         else:
             discretized_new_response_time = 2
 
-        q_value = self.q_table[cur_server_in_use][discretized_old_arrival_rate][cur_dimmer_value][discretized_old_response_time][action]
-        max_q_value_next_state = np.max(self.q_table[next_server_in_use][discretized_new_arrival_rate][next_dimmer_value][discretized_new_response_time])
+        discretized_new_dimmer_value = 0
+        if next_dimmer_value < 0.3:
+            discretized_new_dimmer_value = 0
+        elif next_dimmer_value < 0.6:
+            discretized_new_dimmer_value = 1
+        else:
+            discretized_new_dimmer_value = 2
+
+        q_value = self.q_table[cur_server_in_use][discretized_old_arrival_rate][discretized_old_dimmer_value][discretized_old_response_time][action]
+        max_q_value_next_state = np.max(self.q_table[next_server_in_use][discretized_new_arrival_rate][discretized_new_dimmer_value][discretized_new_response_time])
         new_q_value = q_value + self.alpha * (reward + self.gamma * max_q_value_next_state - q_value)
-        self.q_table[cur_server_in_use][discretized_old_arrival_rate][cur_dimmer_value][discretized_old_response_time][action] = new_q_value
+        self.q_table[cur_server_in_use][discretized_old_arrival_rate][discretized_old_dimmer_value][discretized_old_response_time][action] = new_q_value
 
         # Save updated q_table to file
         with open(Q_VALUES_FILE_NAME, 'w') as f:

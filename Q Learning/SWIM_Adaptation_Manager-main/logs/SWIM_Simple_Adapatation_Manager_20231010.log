@@ -1,0 +1,1785 @@
+2023-10-10 08:29:17 DEBUG Logger Initialized
+2023-10-10 08:29:17 INFO running the adaptation effector module
+2023-10-10 08:29:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:29:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:29:17 INFO No adaptation required
+2023-10-10 08:30:17 INFO calculating the utility values
+2023-10-10 08:30:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:30:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:30:17 INFO No adaptation required
+2023-10-10 08:31:17 INFO calculating the utility values
+2023-10-10 08:31:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:31:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:31:17 INFO No adaptation required
+2023-10-10 08:32:17 INFO calculating the utility values
+2023-10-10 08:32:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:32:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:32:17 INFO No adaptation required
+2023-10-10 08:33:17 INFO calculating the utility values
+2023-10-10 08:33:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:33:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:33:17 INFO No adaptation required
+2023-10-10 08:34:17 INFO calculating the utility values
+2023-10-10 08:34:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:34:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:34:17 INFO No adaptation required
+2023-10-10 08:35:17 INFO calculating the utility values
+2023-10-10 08:35:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:35:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:35:17 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:35:17 INFO removing server
+2023-10-10 08:35:17 INFO server removed successfully
+2023-10-10 08:35:17 INFO inside change dimer module, change flag increase
+2023-10-10 08:36:17 INFO calculating the utility values
+2023-10-10 08:36:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:36:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:36:17 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:36:17 INFO inside change dimer module, change flag decrease
+2023-10-10 08:37:17 INFO calculating the utility values
+2023-10-10 08:37:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:37:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:37:17 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:37:17 INFO inside add server module
+2023-10-10 08:37:17 INFO Server added successfully
+2023-10-10 08:37:17 INFO inside change dimer module, change flag decrease
+2023-10-10 08:38:17 INFO calculating the utility values
+2023-10-10 08:38:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:38:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:38:17 INFO No adaptation required
+2023-10-10 08:39:17 INFO calculating the utility values
+2023-10-10 08:39:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:39:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:39:17 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:39:17 INFO removing server
+2023-10-10 08:39:17 INFO server removed successfully
+2023-10-10 08:40:17 INFO calculating the utility values
+2023-10-10 08:40:17 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:40:17 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:40:17 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:40:17 INFO inside add server module
+2023-10-10 08:40:17 INFO Server added successfully
+2023-10-10 08:41:17 INFO calculating the utility values
+2023-10-10 08:41:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:41:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:41:18 INFO No adaptation required
+2023-10-10 08:42:18 INFO calculating the utility values
+2023-10-10 08:42:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:42:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:42:18 INFO No adaptation required
+2023-10-10 08:43:18 INFO calculating the utility values
+2023-10-10 08:43:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:43:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:43:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:43:18 INFO removing server
+2023-10-10 08:43:18 INFO server removed successfully
+2023-10-10 08:43:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:44:18 INFO calculating the utility values
+2023-10-10 08:44:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:44:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:44:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:44:18 INFO removing server
+2023-10-10 08:44:18 INFO server removed successfully
+2023-10-10 08:45:18 INFO calculating the utility values
+2023-10-10 08:45:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:45:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:45:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:45:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:46:18 INFO calculating the utility values
+2023-10-10 08:46:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:46:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:46:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:46:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:47:18 INFO calculating the utility values
+2023-10-10 08:47:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:47:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:47:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:47:18 INFO inside change dimer module, change flag increase
+2023-10-10 08:48:18 INFO calculating the utility values
+2023-10-10 08:48:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:48:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:48:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:48:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:49:18 INFO calculating the utility values
+2023-10-10 08:49:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:49:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:49:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:49:18 INFO inside change dimer module, change flag increase
+2023-10-10 08:50:18 INFO calculating the utility values
+2023-10-10 08:50:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:50:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:50:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:50:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:51:18 INFO calculating the utility values
+2023-10-10 08:51:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:51:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:51:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:51:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:52:18 INFO calculating the utility values
+2023-10-10 08:52:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:52:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:52:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:52:18 INFO inside change dimer module, change flag increase
+2023-10-10 08:53:18 INFO calculating the utility values
+2023-10-10 08:53:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:53:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:53:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:53:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:54:18 INFO calculating the utility values
+2023-10-10 08:54:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:54:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:54:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:54:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:55:18 INFO calculating the utility values
+2023-10-10 08:55:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:55:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:55:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 08:55:18 INFO inside change dimer module, change flag decrease
+2023-10-10 08:56:18 INFO calculating the utility values
+2023-10-10 08:56:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:56:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:56:18 INFO No adaptation required
+2023-10-10 08:57:18 INFO calculating the utility values
+2023-10-10 08:57:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:57:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:57:18 INFO No adaptation required
+2023-10-10 08:58:18 INFO calculating the utility values
+2023-10-10 08:58:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:58:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:58:18 INFO No adaptation required
+2023-10-10 08:59:18 INFO calculating the utility values
+2023-10-10 08:59:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 08:59:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 08:59:18 INFO No adaptation required
+2023-10-10 09:00:18 INFO calculating the utility values
+2023-10-10 09:00:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:00:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:00:18 INFO No adaptation required
+2023-10-10 09:01:18 INFO calculating the utility values
+2023-10-10 09:01:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:01:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:01:18 INFO No adaptation required
+2023-10-10 09:02:18 INFO calculating the utility values
+2023-10-10 09:02:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:02:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:02:18 INFO No adaptation required
+2023-10-10 09:03:18 INFO calculating the utility values
+2023-10-10 09:03:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:03:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:03:18 INFO No adaptation required
+2023-10-10 09:04:18 INFO calculating the utility values
+2023-10-10 09:04:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:04:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:04:18 INFO No adaptation required
+2023-10-10 09:05:18 INFO calculating the utility values
+2023-10-10 09:05:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:05:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:05:18 INFO No adaptation required
+2023-10-10 09:06:18 INFO calculating the utility values
+2023-10-10 09:06:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:06:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:06:18 INFO No adaptation required
+2023-10-10 09:07:18 INFO calculating the utility values
+2023-10-10 09:07:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:07:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:07:18 INFO No adaptation required
+2023-10-10 09:08:18 INFO calculating the utility values
+2023-10-10 09:08:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:08:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:08:18 INFO No adaptation required
+2023-10-10 09:09:18 INFO calculating the utility values
+2023-10-10 09:09:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:09:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:09:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:09:18 INFO inside add server module
+2023-10-10 09:09:18 INFO Server added successfully
+2023-10-10 09:10:18 INFO calculating the utility values
+2023-10-10 09:10:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:10:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:10:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:10:18 INFO inside add server module
+2023-10-10 09:10:18 INFO Server added successfully
+2023-10-10 09:11:18 INFO calculating the utility values
+2023-10-10 09:11:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:11:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:11:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:11:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:12:18 INFO calculating the utility values
+2023-10-10 09:12:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:12:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:12:18 INFO No adaptation required
+2023-10-10 09:13:18 INFO calculating the utility values
+2023-10-10 09:13:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:13:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:13:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:13:18 INFO removing server
+2023-10-10 09:13:18 INFO server removed successfully
+2023-10-10 09:14:18 INFO calculating the utility values
+2023-10-10 09:14:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:14:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:14:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:14:18 INFO removing server
+2023-10-10 09:14:18 INFO server removed successfully
+2023-10-10 09:14:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:15:18 INFO calculating the utility values
+2023-10-10 09:15:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:15:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:15:18 INFO No adaptation required
+2023-10-10 09:16:18 INFO calculating the utility values
+2023-10-10 09:16:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:16:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:16:18 INFO No adaptation required
+2023-10-10 09:17:18 INFO calculating the utility values
+2023-10-10 09:17:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:17:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:17:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:17:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:18:18 INFO calculating the utility values
+2023-10-10 09:18:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:18:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:18:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:19:18 INFO calculating the utility values
+2023-10-10 09:19:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:19:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:19:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:20:18 INFO calculating the utility values
+2023-10-10 09:20:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:20:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:20:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:21:18 INFO calculating the utility values
+2023-10-10 09:21:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:21:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:21:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:22:18 INFO calculating the utility values
+2023-10-10 09:22:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:22:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:22:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:22:18 INFO inside add server module
+2023-10-10 09:22:18 INFO Server added successfully
+2023-10-10 09:22:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:23:18 INFO calculating the utility values
+2023-10-10 09:23:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:23:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:23:18 INFO No adaptation required
+2023-10-10 09:24:18 INFO calculating the utility values
+2023-10-10 09:24:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:24:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:24:18 INFO No adaptation required
+2023-10-10 09:25:18 INFO calculating the utility values
+2023-10-10 09:25:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:25:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:25:18 INFO No adaptation required
+2023-10-10 09:26:18 INFO calculating the utility values
+2023-10-10 09:26:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:26:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:26:18 INFO No adaptation required
+2023-10-10 09:27:18 INFO calculating the utility values
+2023-10-10 09:27:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:27:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:27:18 INFO No adaptation required
+2023-10-10 09:28:18 INFO calculating the utility values
+2023-10-10 09:28:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:28:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:28:18 INFO No adaptation required
+2023-10-10 09:29:18 INFO calculating the utility values
+2023-10-10 09:29:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:29:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:29:18 INFO No adaptation required
+2023-10-10 09:30:18 INFO calculating the utility values
+2023-10-10 09:30:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:30:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:30:18 INFO No adaptation required
+2023-10-10 09:31:18 INFO calculating the utility values
+2023-10-10 09:31:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:31:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:31:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:31:18 INFO inside add server module
+2023-10-10 09:31:18 INFO Server added successfully
+2023-10-10 09:32:18 INFO calculating the utility values
+2023-10-10 09:32:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:32:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:32:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:32:18 INFO removing server
+2023-10-10 09:32:18 INFO server removed successfully
+2023-10-10 09:33:18 INFO calculating the utility values
+2023-10-10 09:33:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:33:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:33:18 INFO No adaptation required
+2023-10-10 09:34:18 INFO calculating the utility values
+2023-10-10 09:34:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:34:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:34:18 INFO No adaptation required
+2023-10-10 09:35:18 INFO calculating the utility values
+2023-10-10 09:35:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:35:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:35:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:35:18 INFO removing server
+2023-10-10 09:35:18 INFO server removed successfully
+2023-10-10 09:36:18 INFO calculating the utility values
+2023-10-10 09:36:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:36:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:36:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:36:18 INFO inside add server module
+2023-10-10 09:36:18 INFO Server added successfully
+2023-10-10 09:36:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:37:18 INFO calculating the utility values
+2023-10-10 09:37:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:37:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:37:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:37:18 INFO inside add server module
+2023-10-10 09:37:18 INFO Server added successfully
+2023-10-10 09:37:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:38:18 INFO calculating the utility values
+2023-10-10 09:38:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:38:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:38:18 INFO No adaptation required
+2023-10-10 09:39:18 INFO calculating the utility values
+2023-10-10 09:39:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:39:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:39:18 INFO No adaptation required
+2023-10-10 09:40:18 INFO calculating the utility values
+2023-10-10 09:40:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:40:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:40:18 INFO No adaptation required
+2023-10-10 09:41:18 INFO calculating the utility values
+2023-10-10 09:41:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:41:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:41:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:41:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:42:18 INFO calculating the utility values
+2023-10-10 09:42:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:42:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:42:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:42:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:43:18 INFO calculating the utility values
+2023-10-10 09:43:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:43:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:43:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:43:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:44:18 INFO calculating the utility values
+2023-10-10 09:44:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:44:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:44:18 INFO No adaptation required
+2023-10-10 09:45:18 INFO calculating the utility values
+2023-10-10 09:45:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:45:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:45:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:45:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:46:18 INFO calculating the utility values
+2023-10-10 09:46:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:46:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:46:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:46:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:47:18 INFO calculating the utility values
+2023-10-10 09:47:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:47:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:47:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:47:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:48:18 INFO calculating the utility values
+2023-10-10 09:48:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:48:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:48:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:48:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:49:18 INFO calculating the utility values
+2023-10-10 09:49:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:49:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:49:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:49:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:50:18 INFO calculating the utility values
+2023-10-10 09:50:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:50:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:50:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:50:18 INFO removing server
+2023-10-10 09:50:18 INFO server removed successfully
+2023-10-10 09:50:18 INFO inside change dimer module, change flag decrease
+2023-10-10 09:51:18 INFO calculating the utility values
+2023-10-10 09:51:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:51:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:51:18 INFO No adaptation required
+2023-10-10 09:52:18 INFO calculating the utility values
+2023-10-10 09:52:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:52:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:52:18 INFO No adaptation required
+2023-10-10 09:53:18 INFO calculating the utility values
+2023-10-10 09:53:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:53:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:53:18 INFO No adaptation required
+2023-10-10 09:54:18 INFO calculating the utility values
+2023-10-10 09:54:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:54:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:54:18 INFO No adaptation required
+2023-10-10 09:55:18 INFO calculating the utility values
+2023-10-10 09:55:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:55:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:55:18 INFO No adaptation required
+2023-10-10 09:56:18 INFO calculating the utility values
+2023-10-10 09:56:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:56:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:56:18 INFO No adaptation required
+2023-10-10 09:57:18 INFO calculating the utility values
+2023-10-10 09:57:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:57:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:57:18 INFO No adaptation required
+2023-10-10 09:58:18 INFO calculating the utility values
+2023-10-10 09:58:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:58:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:58:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:58:18 INFO inside add server module
+2023-10-10 09:58:18 INFO Server added successfully
+2023-10-10 09:58:18 INFO inside change dimer module, change flag increase
+2023-10-10 09:59:18 INFO calculating the utility values
+2023-10-10 09:59:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 09:59:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 09:59:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 09:59:18 INFO inside change dimer module, change flag increase
+2023-10-10 10:00:18 INFO calculating the utility values
+2023-10-10 10:00:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:00:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:00:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:00:18 INFO inside change dimer module, change flag decrease
+2023-10-10 10:01:18 INFO calculating the utility values
+2023-10-10 10:01:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:01:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:01:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:01:18 INFO inside change dimer module, change flag increase
+2023-10-10 10:02:18 INFO calculating the utility values
+2023-10-10 10:02:18 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:02:18 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:02:18 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:02:18 INFO removing server
+2023-10-10 10:02:18 INFO server removed successfully
+2023-10-10 10:02:18 INFO inside change dimer module, change flag increase
+2023-10-10 10:03:18 INFO calculating the utility values
+2023-10-10 10:03:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:03:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:03:19 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:03:19 INFO inside change dimer module, change flag decrease
+2023-10-10 10:04:19 INFO calculating the utility values
+2023-10-10 10:04:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:04:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:04:19 INFO No adaptation required
+2023-10-10 10:05:19 INFO calculating the utility values
+2023-10-10 10:05:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:05:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:05:19 INFO No adaptation required
+2023-10-10 10:06:19 INFO calculating the utility values
+2023-10-10 10:06:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:06:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:06:19 INFO No adaptation required
+2023-10-10 10:07:19 INFO calculating the utility values
+2023-10-10 10:07:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:07:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:07:19 INFO No adaptation required
+2023-10-10 10:08:19 INFO calculating the utility values
+2023-10-10 10:08:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:08:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:08:19 INFO No adaptation required
+2023-10-10 10:09:19 INFO calculating the utility values
+2023-10-10 10:09:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:09:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:09:19 INFO No adaptation required
+2023-10-10 10:10:19 INFO calculating the utility values
+2023-10-10 10:10:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:10:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:10:19 INFO No adaptation required
+2023-10-10 10:11:19 INFO calculating the utility values
+2023-10-10 10:11:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:11:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:11:19 INFO No adaptation required
+2023-10-10 10:12:19 INFO calculating the utility values
+2023-10-10 10:12:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:12:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:12:19 INFO No adaptation required
+2023-10-10 10:13:19 INFO calculating the utility values
+2023-10-10 10:13:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:13:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:13:19 INFO No adaptation required
+2023-10-10 10:14:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:15:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:16:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:17:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:18:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:19:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:20:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:21:19 ERROR [Errno 104] Connection reset by peer
+2023-10-10 10:31:21 DEBUG Logger Initialized
+2023-10-10 10:31:21 INFO running the adaptation effector module
+2023-10-10 10:31:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:31:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:31:21 INFO No adaptation required
+2023-10-10 10:31:55 DEBUG Logger Initialized
+2023-10-10 10:31:55 INFO running the adaptation effector module
+2023-10-10 10:31:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:31:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:31:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:31:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:32:55 INFO calculating the utility values
+2023-10-10 10:32:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:32:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:32:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:32:55 INFO inside change dimer module, change flag increase
+2023-10-10 10:33:55 INFO calculating the utility values
+2023-10-10 10:33:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:33:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:33:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:33:55 INFO inside change dimer module, change flag increase
+2023-10-10 10:34:55 INFO calculating the utility values
+2023-10-10 10:34:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:34:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:34:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:35:55 INFO calculating the utility values
+2023-10-10 10:35:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:35:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:35:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:35:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:36:55 INFO calculating the utility values
+2023-10-10 10:36:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:36:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:36:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:36:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:37:55 INFO calculating the utility values
+2023-10-10 10:37:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:37:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:37:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:37:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:38:55 INFO calculating the utility values
+2023-10-10 10:38:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:38:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:38:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:38:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:39:55 INFO calculating the utility values
+2023-10-10 10:39:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:39:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:39:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:39:55 INFO inside change dimer module, change flag increase
+2023-10-10 10:40:55 INFO calculating the utility values
+2023-10-10 10:40:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:40:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:40:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:40:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:41:55 INFO calculating the utility values
+2023-10-10 10:41:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:41:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:41:55 INFO No adaptation required
+2023-10-10 10:42:55 INFO calculating the utility values
+2023-10-10 10:42:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:42:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:42:55 INFO No adaptation required
+2023-10-10 10:43:55 INFO calculating the utility values
+2023-10-10 10:43:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:43:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:43:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:43:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:44:55 INFO calculating the utility values
+2023-10-10 10:44:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:44:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:44:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:44:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:45:55 INFO calculating the utility values
+2023-10-10 10:45:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:45:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:45:55 INFO No adaptation required
+2023-10-10 10:46:55 INFO calculating the utility values
+2023-10-10 10:46:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:46:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:46:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:46:55 INFO removing server
+2023-10-10 10:46:55 INFO server removed successfully
+2023-10-10 10:47:55 INFO calculating the utility values
+2023-10-10 10:47:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:47:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:47:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:47:55 INFO inside change dimer module, change flag increase
+2023-10-10 10:48:55 INFO calculating the utility values
+2023-10-10 10:48:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:48:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:48:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:48:55 INFO inside change dimer module, change flag increase
+2023-10-10 10:49:55 INFO calculating the utility values
+2023-10-10 10:49:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:49:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:49:55 INFO No adaptation required
+2023-10-10 10:50:55 INFO calculating the utility values
+2023-10-10 10:50:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:50:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:50:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:50:55 INFO removing server
+2023-10-10 10:50:55 INFO server removed successfully
+2023-10-10 10:51:55 INFO calculating the utility values
+2023-10-10 10:51:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:51:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:51:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:51:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:52:55 INFO calculating the utility values
+2023-10-10 10:52:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:52:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:52:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:52:55 INFO inside add server module
+2023-10-10 10:52:55 INFO Server added successfully
+2023-10-10 10:53:55 INFO calculating the utility values
+2023-10-10 10:53:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:53:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:53:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:53:55 INFO inside add server module
+2023-10-10 10:53:55 INFO Server added successfully
+2023-10-10 10:54:55 INFO calculating the utility values
+2023-10-10 10:54:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:54:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:54:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:54:55 INFO removing server
+2023-10-10 10:54:55 INFO server removed successfully
+2023-10-10 10:55:55 INFO calculating the utility values
+2023-10-10 10:55:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:55:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:55:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:55:55 INFO inside change dimer module, change flag decrease
+2023-10-10 10:56:55 INFO calculating the utility values
+2023-10-10 10:56:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:56:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:56:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:56:55 INFO inside change dimer module, change flag increase
+2023-10-10 10:57:55 INFO calculating the utility values
+2023-10-10 10:57:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:57:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:57:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:57:55 INFO inside add server module
+2023-10-10 10:57:55 INFO Server added successfully
+2023-10-10 10:58:55 INFO calculating the utility values
+2023-10-10 10:58:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:58:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:58:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:58:55 INFO removing server
+2023-10-10 10:58:55 INFO server removed successfully
+2023-10-10 10:59:55 INFO calculating the utility values
+2023-10-10 10:59:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 10:59:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 10:59:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 10:59:55 INFO removing server
+2023-10-10 10:59:55 INFO server removed successfully
+2023-10-10 11:00:55 INFO calculating the utility values
+2023-10-10 11:00:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:00:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:00:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:00:55 INFO inside add server module
+2023-10-10 11:00:55 INFO Server added successfully
+2023-10-10 11:01:55 INFO calculating the utility values
+2023-10-10 11:01:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:01:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:01:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:01:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:02:55 INFO calculating the utility values
+2023-10-10 11:02:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:02:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:02:55 INFO No adaptation required
+2023-10-10 11:03:55 INFO calculating the utility values
+2023-10-10 11:03:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:03:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:03:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:03:55 INFO removing server
+2023-10-10 11:03:55 INFO server removed successfully
+2023-10-10 11:04:55 INFO calculating the utility values
+2023-10-10 11:04:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:04:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:04:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:04:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:05:55 INFO calculating the utility values
+2023-10-10 11:05:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:05:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:05:55 INFO No adaptation required
+2023-10-10 11:06:55 INFO calculating the utility values
+2023-10-10 11:06:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:06:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:06:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:06:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:07:55 INFO calculating the utility values
+2023-10-10 11:07:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:07:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:07:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:07:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:08:55 INFO calculating the utility values
+2023-10-10 11:08:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:08:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:08:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:08:55 INFO inside add server module
+2023-10-10 11:08:55 INFO Server added successfully
+2023-10-10 11:09:55 INFO calculating the utility values
+2023-10-10 11:09:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:09:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:09:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:09:55 INFO removing server
+2023-10-10 11:09:55 INFO server removed successfully
+2023-10-10 11:10:55 INFO calculating the utility values
+2023-10-10 11:10:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:10:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:10:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:10:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:11:55 INFO calculating the utility values
+2023-10-10 11:11:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:11:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:11:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:11:55 INFO inside add server module
+2023-10-10 11:11:55 INFO Server added successfully
+2023-10-10 11:12:55 INFO calculating the utility values
+2023-10-10 11:12:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:12:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:12:55 INFO No adaptation required
+2023-10-10 11:13:55 INFO calculating the utility values
+2023-10-10 11:13:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:13:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:13:55 INFO No adaptation required
+2023-10-10 11:14:55 INFO calculating the utility values
+2023-10-10 11:14:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:14:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:14:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:14:55 INFO removing server
+2023-10-10 11:14:55 INFO server removed successfully
+2023-10-10 11:15:55 INFO calculating the utility values
+2023-10-10 11:15:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:15:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:15:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:15:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:16:55 INFO calculating the utility values
+2023-10-10 11:16:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:16:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:16:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:16:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:17:55 INFO calculating the utility values
+2023-10-10 11:17:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:17:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:17:55 INFO No adaptation required
+2023-10-10 11:18:55 INFO calculating the utility values
+2023-10-10 11:18:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:18:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:18:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:18:55 INFO inside add server module
+2023-10-10 11:18:55 INFO Server added successfully
+2023-10-10 11:19:55 INFO calculating the utility values
+2023-10-10 11:19:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:19:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:19:55 INFO No adaptation required
+2023-10-10 11:20:55 INFO calculating the utility values
+2023-10-10 11:20:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:20:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:20:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:20:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:21:55 INFO calculating the utility values
+2023-10-10 11:21:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:21:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:21:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:21:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:22:55 INFO calculating the utility values
+2023-10-10 11:22:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:22:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:22:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:22:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:23:55 INFO calculating the utility values
+2023-10-10 11:23:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:23:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:23:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:23:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:24:55 INFO calculating the utility values
+2023-10-10 11:24:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:24:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:24:55 INFO No adaptation required
+2023-10-10 11:25:55 INFO calculating the utility values
+2023-10-10 11:25:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:25:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:25:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:26:55 INFO calculating the utility values
+2023-10-10 11:26:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:26:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:26:55 INFO No adaptation required
+2023-10-10 11:27:55 INFO calculating the utility values
+2023-10-10 11:27:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:27:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:27:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:28:55 INFO calculating the utility values
+2023-10-10 11:28:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:28:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:28:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:29:55 INFO calculating the utility values
+2023-10-10 11:29:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:29:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:29:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:29:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:30:55 INFO calculating the utility values
+2023-10-10 11:30:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:30:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:30:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:30:55 INFO inside add server module
+2023-10-10 11:30:55 INFO Server added successfully
+2023-10-10 11:31:55 INFO calculating the utility values
+2023-10-10 11:31:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:31:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:31:55 INFO No adaptation required
+2023-10-10 11:32:55 INFO calculating the utility values
+2023-10-10 11:32:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:32:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:32:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:32:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:33:55 INFO calculating the utility values
+2023-10-10 11:33:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:33:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:33:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:34:55 INFO calculating the utility values
+2023-10-10 11:34:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:34:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:34:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:34:55 INFO removing server
+2023-10-10 11:34:55 INFO server removed successfully
+2023-10-10 11:35:55 INFO calculating the utility values
+2023-10-10 11:35:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:35:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:35:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:35:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:36:55 INFO calculating the utility values
+2023-10-10 11:36:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:36:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:36:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:36:55 INFO removing server
+2023-10-10 11:36:55 INFO server removed successfully
+2023-10-10 11:37:55 INFO calculating the utility values
+2023-10-10 11:37:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:37:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:37:55 INFO No adaptation required
+2023-10-10 11:38:55 INFO calculating the utility values
+2023-10-10 11:38:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:38:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:38:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:38:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:39:55 INFO calculating the utility values
+2023-10-10 11:39:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:39:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:39:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:39:55 INFO inside add server module
+2023-10-10 11:39:55 INFO Server added successfully
+2023-10-10 11:40:55 INFO calculating the utility values
+2023-10-10 11:40:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:40:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:40:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:40:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:41:55 INFO calculating the utility values
+2023-10-10 11:41:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:41:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:41:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:41:55 INFO removing server
+2023-10-10 11:41:55 INFO server removed successfully
+2023-10-10 11:42:55 INFO calculating the utility values
+2023-10-10 11:42:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:42:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:42:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:42:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:43:55 INFO calculating the utility values
+2023-10-10 11:43:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:43:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:43:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:43:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:44:55 INFO calculating the utility values
+2023-10-10 11:44:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:44:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:44:55 INFO No adaptation required
+2023-10-10 11:45:55 INFO calculating the utility values
+2023-10-10 11:45:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:45:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:45:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:45:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:46:55 INFO calculating the utility values
+2023-10-10 11:46:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:46:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:46:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:46:55 INFO inside change dimer module, change flag decrease
+2023-10-10 11:47:55 INFO calculating the utility values
+2023-10-10 11:47:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:47:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:47:55 INFO No adaptation required
+2023-10-10 11:48:55 INFO calculating the utility values
+2023-10-10 11:48:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:48:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:48:55 INFO No adaptation required
+2023-10-10 11:49:55 INFO calculating the utility values
+2023-10-10 11:49:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:49:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:49:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:49:55 INFO inside add server module
+2023-10-10 11:49:55 INFO Server added successfully
+2023-10-10 11:50:55 INFO calculating the utility values
+2023-10-10 11:50:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:50:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:50:55 INFO No adaptation required
+2023-10-10 11:51:55 INFO calculating the utility values
+2023-10-10 11:51:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:51:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:51:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:51:55 INFO removing server
+2023-10-10 11:51:55 INFO server removed successfully
+2023-10-10 11:52:55 INFO calculating the utility values
+2023-10-10 11:52:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:52:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:52:55 INFO No adaptation required
+2023-10-10 11:53:55 INFO calculating the utility values
+2023-10-10 11:53:55 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:53:55 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:53:55 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:53:55 INFO inside change dimer module, change flag increase
+2023-10-10 11:54:55 INFO calculating the utility values
+2023-10-10 11:54:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:54:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:54:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:54:56 INFO inside change dimer module, change flag decrease
+2023-10-10 11:55:56 INFO calculating the utility values
+2023-10-10 11:55:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:55:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:55:56 INFO No adaptation required
+2023-10-10 11:56:56 INFO calculating the utility values
+2023-10-10 11:56:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:56:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:56:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:56:56 INFO inside change dimer module, change flag increase
+2023-10-10 11:57:56 INFO calculating the utility values
+2023-10-10 11:57:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:57:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:57:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:57:56 INFO inside add server module
+2023-10-10 11:57:56 INFO Server added successfully
+2023-10-10 11:58:56 INFO calculating the utility values
+2023-10-10 11:58:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:58:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:58:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:58:56 INFO removing server
+2023-10-10 11:58:56 INFO server removed successfully
+2023-10-10 11:59:56 INFO calculating the utility values
+2023-10-10 11:59:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 11:59:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 11:59:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 11:59:56 INFO inside add server module
+2023-10-10 11:59:56 INFO Server added successfully
+2023-10-10 12:00:56 INFO calculating the utility values
+2023-10-10 12:00:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:00:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:00:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:00:56 INFO removing server
+2023-10-10 12:00:56 INFO server removed successfully
+2023-10-10 12:01:56 INFO calculating the utility values
+2023-10-10 12:01:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:01:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:01:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:01:56 INFO inside change dimer module, change flag increase
+2023-10-10 12:02:56 INFO calculating the utility values
+2023-10-10 12:02:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:02:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:02:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:02:56 INFO inside add server module
+2023-10-10 12:02:56 INFO Server added successfully
+2023-10-10 12:03:56 INFO calculating the utility values
+2023-10-10 12:03:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:03:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:03:56 INFO No adaptation required
+2023-10-10 12:04:56 INFO calculating the utility values
+2023-10-10 12:04:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:04:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:04:56 INFO No adaptation required
+2023-10-10 12:05:56 INFO calculating the utility values
+2023-10-10 12:05:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:05:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:05:56 INFO No adaptation required
+2023-10-10 12:06:56 INFO calculating the utility values
+2023-10-10 12:06:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:06:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:06:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:06:56 INFO inside add server module
+2023-10-10 12:06:56 INFO Server added successfully
+2023-10-10 12:07:56 INFO calculating the utility values
+2023-10-10 12:07:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:07:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:07:56 INFO No adaptation required
+2023-10-10 12:08:56 INFO calculating the utility values
+2023-10-10 12:08:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:08:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:08:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:09:56 INFO calculating the utility values
+2023-10-10 12:09:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:09:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:09:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:09:56 INFO inside change dimer module, change flag decrease
+2023-10-10 12:10:56 INFO calculating the utility values
+2023-10-10 12:10:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:10:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:10:56 INFO No adaptation required
+2023-10-10 12:11:56 INFO calculating the utility values
+2023-10-10 12:11:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:11:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:11:56 INFO No adaptation required
+2023-10-10 12:12:56 INFO calculating the utility values
+2023-10-10 12:12:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:12:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:12:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:12:56 INFO inside change dimer module, change flag increase
+2023-10-10 12:13:56 INFO calculating the utility values
+2023-10-10 12:13:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:13:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:13:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:13:56 INFO inside change dimer module, change flag decrease
+2023-10-10 12:14:56 INFO calculating the utility values
+2023-10-10 12:14:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:14:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:14:56 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:14:56 INFO inside change dimer module, change flag increase
+2023-10-10 12:15:56 INFO calculating the utility values
+2023-10-10 12:15:56 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:15:56 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:15:56 INFO No adaptation required
+2023-10-10 12:16:56 ERROR [Errno 104] Connection reset by peer
+2023-10-10 12:17:56 ERROR [Errno 104] Connection reset by peer
+2023-10-10 12:18:56 ERROR [Errno 104] Connection reset by peer
+2023-10-10 12:19:56 ERROR [Errno 104] Connection reset by peer
+2023-10-10 12:24:20 DEBUG Logger Initialized
+2023-10-10 12:24:20 INFO running the adaptation effector module
+2023-10-10 12:24:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:24:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:24:20 INFO No adaptation required
+2023-10-10 12:25:20 INFO calculating the utility values
+2023-10-10 12:25:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:25:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:25:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:25:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:26:20 INFO calculating the utility values
+2023-10-10 12:26:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:26:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:26:20 INFO No adaptation required
+2023-10-10 12:27:20 INFO calculating the utility values
+2023-10-10 12:27:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:27:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:27:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:27:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:28:20 INFO calculating the utility values
+2023-10-10 12:28:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:28:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:28:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:28:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:29:20 INFO calculating the utility values
+2023-10-10 12:29:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:29:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:29:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:29:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:30:20 INFO calculating the utility values
+2023-10-10 12:30:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:30:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:30:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:30:20 INFO removing server
+2023-10-10 12:30:20 INFO server removed successfully
+2023-10-10 12:31:20 INFO calculating the utility values
+2023-10-10 12:31:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:31:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:31:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:31:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:32:20 INFO calculating the utility values
+2023-10-10 12:32:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:32:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:32:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:32:20 INFO inside add server module
+2023-10-10 12:32:20 INFO Server added successfully
+2023-10-10 12:33:20 INFO calculating the utility values
+2023-10-10 12:33:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:33:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:33:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:33:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:34:20 INFO calculating the utility values
+2023-10-10 12:34:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:34:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:34:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:34:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:35:20 INFO calculating the utility values
+2023-10-10 12:35:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:35:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:35:20 INFO No adaptation required
+2023-10-10 12:36:20 INFO calculating the utility values
+2023-10-10 12:36:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:36:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:36:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:36:20 INFO removing server
+2023-10-10 12:36:20 INFO server removed successfully
+2023-10-10 12:37:20 INFO calculating the utility values
+2023-10-10 12:37:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:37:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:37:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:37:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:38:20 INFO calculating the utility values
+2023-10-10 12:38:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:38:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:38:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:38:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:39:20 INFO calculating the utility values
+2023-10-10 12:39:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:39:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:39:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:39:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:40:20 INFO calculating the utility values
+2023-10-10 12:40:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:40:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:40:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:40:20 INFO removing server
+2023-10-10 12:40:20 INFO server removed successfully
+2023-10-10 12:41:20 INFO calculating the utility values
+2023-10-10 12:41:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:41:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:41:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:41:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:42:20 INFO calculating the utility values
+2023-10-10 12:42:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:42:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:42:20 INFO No adaptation required
+2023-10-10 12:43:20 INFO calculating the utility values
+2023-10-10 12:43:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:43:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:43:20 INFO No adaptation required
+2023-10-10 12:44:20 INFO calculating the utility values
+2023-10-10 12:44:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:44:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:44:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:44:20 INFO inside add server module
+2023-10-10 12:44:20 INFO Server added successfully
+2023-10-10 12:45:20 INFO calculating the utility values
+2023-10-10 12:45:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:45:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:45:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:45:20 INFO inside add server module
+2023-10-10 12:45:20 INFO Server added successfully
+2023-10-10 12:46:20 INFO calculating the utility values
+2023-10-10 12:46:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:46:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:46:20 INFO No adaptation required
+2023-10-10 12:47:20 INFO calculating the utility values
+2023-10-10 12:47:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:47:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:47:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:47:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:48:20 INFO calculating the utility values
+2023-10-10 12:48:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:48:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:48:20 INFO No adaptation required
+2023-10-10 12:49:20 INFO calculating the utility values
+2023-10-10 12:49:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:49:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:49:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:49:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:50:20 INFO calculating the utility values
+2023-10-10 12:50:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:50:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:50:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:50:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:51:20 INFO calculating the utility values
+2023-10-10 12:51:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:51:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:51:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:51:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:52:20 INFO calculating the utility values
+2023-10-10 12:52:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:52:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:52:20 INFO No adaptation required
+2023-10-10 12:53:20 INFO calculating the utility values
+2023-10-10 12:53:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:53:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:53:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:53:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:54:20 INFO calculating the utility values
+2023-10-10 12:54:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:54:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:54:20 INFO No adaptation required
+2023-10-10 12:55:20 INFO calculating the utility values
+2023-10-10 12:55:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:55:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:55:20 INFO No adaptation required
+2023-10-10 12:56:20 INFO calculating the utility values
+2023-10-10 12:56:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:56:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:56:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:56:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:57:20 INFO calculating the utility values
+2023-10-10 12:57:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:57:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:57:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:57:20 INFO inside change dimer module, change flag increase
+2023-10-10 12:58:20 INFO calculating the utility values
+2023-10-10 12:58:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:58:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:58:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 12:58:20 INFO inside change dimer module, change flag decrease
+2023-10-10 12:59:20 INFO calculating the utility values
+2023-10-10 12:59:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 12:59:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 12:59:20 INFO No adaptation required
+2023-10-10 13:00:20 INFO calculating the utility values
+2023-10-10 13:00:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:00:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:00:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:00:20 INFO removing server
+2023-10-10 13:00:20 INFO server removed successfully
+2023-10-10 13:01:20 INFO calculating the utility values
+2023-10-10 13:01:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:01:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:01:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:01:20 INFO removing server
+2023-10-10 13:01:20 INFO server removed successfully
+2023-10-10 13:02:20 INFO calculating the utility values
+2023-10-10 13:02:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:02:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:02:20 INFO No adaptation required
+2023-10-10 13:03:20 INFO calculating the utility values
+2023-10-10 13:03:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:03:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:03:20 INFO No adaptation required
+2023-10-10 13:04:20 INFO calculating the utility values
+2023-10-10 13:04:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:04:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:04:20 INFO No adaptation required
+2023-10-10 13:05:20 INFO calculating the utility values
+2023-10-10 13:05:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:05:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:05:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:05:20 INFO inside change dimer module, change flag decrease
+2023-10-10 13:06:20 INFO calculating the utility values
+2023-10-10 13:06:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:06:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:06:20 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:06:20 INFO inside change dimer module, change flag decrease
+2023-10-10 13:07:20 INFO calculating the utility values
+2023-10-10 13:07:20 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:07:20 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:07:20 INFO No adaptation required
+2023-10-10 13:08:20 INFO calculating the utility values
+2023-10-10 13:08:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:08:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:08:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:08:21 INFO inside add server module
+2023-10-10 13:08:21 INFO Server added successfully
+2023-10-10 13:09:21 INFO calculating the utility values
+2023-10-10 13:09:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:09:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:09:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:09:21 INFO inside add server module
+2023-10-10 13:09:21 INFO Server added successfully
+2023-10-10 13:10:21 INFO calculating the utility values
+2023-10-10 13:10:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:10:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:10:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:10:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:11:21 INFO calculating the utility values
+2023-10-10 13:11:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:11:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:11:21 INFO No adaptation required
+2023-10-10 13:12:21 INFO calculating the utility values
+2023-10-10 13:12:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:12:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:12:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:12:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:13:21 INFO calculating the utility values
+2023-10-10 13:13:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:13:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:13:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:13:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:14:21 INFO calculating the utility values
+2023-10-10 13:14:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:14:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:14:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:14:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:15:21 INFO calculating the utility values
+2023-10-10 13:15:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:15:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:15:21 INFO No adaptation required
+2023-10-10 13:16:21 INFO calculating the utility values
+2023-10-10 13:16:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:16:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:16:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:16:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:17:21 INFO calculating the utility values
+2023-10-10 13:17:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:17:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:17:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:17:21 INFO removing server
+2023-10-10 13:17:21 INFO server removed successfully
+2023-10-10 13:18:21 INFO calculating the utility values
+2023-10-10 13:18:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:18:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:18:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:18:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:19:21 INFO calculating the utility values
+2023-10-10 13:19:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:19:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:19:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:19:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:20:21 INFO calculating the utility values
+2023-10-10 13:20:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:20:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:20:21 INFO No adaptation required
+2023-10-10 13:21:21 INFO calculating the utility values
+2023-10-10 13:21:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:21:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:21:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:21:21 INFO inside add server module
+2023-10-10 13:21:21 INFO Server added successfully
+2023-10-10 13:22:21 INFO calculating the utility values
+2023-10-10 13:22:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:22:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:22:21 INFO No adaptation required
+2023-10-10 13:23:21 INFO calculating the utility values
+2023-10-10 13:23:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:23:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:23:21 INFO No adaptation required
+2023-10-10 13:24:21 INFO calculating the utility values
+2023-10-10 13:24:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:24:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:24:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:24:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:25:21 INFO calculating the utility values
+2023-10-10 13:25:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:25:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:25:21 INFO No adaptation required
+2023-10-10 13:26:21 INFO calculating the utility values
+2023-10-10 13:26:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:26:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:26:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:26:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:27:21 INFO calculating the utility values
+2023-10-10 13:27:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:27:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:27:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:27:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:28:21 INFO calculating the utility values
+2023-10-10 13:28:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:28:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:28:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:28:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:29:21 INFO calculating the utility values
+2023-10-10 13:29:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:29:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:29:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:29:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:30:21 INFO calculating the utility values
+2023-10-10 13:30:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:30:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:30:21 INFO No adaptation required
+2023-10-10 13:31:21 INFO calculating the utility values
+2023-10-10 13:31:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:31:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:31:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:31:21 INFO removing server
+2023-10-10 13:31:21 INFO server removed successfully
+2023-10-10 13:32:21 INFO calculating the utility values
+2023-10-10 13:32:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:32:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:32:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:32:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:33:21 INFO calculating the utility values
+2023-10-10 13:33:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:33:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:33:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:33:21 INFO removing server
+2023-10-10 13:33:21 INFO server removed successfully
+2023-10-10 13:34:21 INFO calculating the utility values
+2023-10-10 13:34:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:34:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:34:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:34:21 INFO inside add server module
+2023-10-10 13:34:21 INFO Server added successfully
+2023-10-10 13:35:21 INFO calculating the utility values
+2023-10-10 13:35:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:35:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:35:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:35:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:36:21 INFO calculating the utility values
+2023-10-10 13:36:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:36:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:36:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:36:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:37:21 INFO calculating the utility values
+2023-10-10 13:37:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:37:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:37:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:37:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:38:21 INFO calculating the utility values
+2023-10-10 13:38:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:38:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:38:21 INFO No adaptation required
+2023-10-10 13:39:21 INFO calculating the utility values
+2023-10-10 13:39:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:39:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:39:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:39:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:40:21 INFO calculating the utility values
+2023-10-10 13:40:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:40:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:40:21 INFO No adaptation required
+2023-10-10 13:41:21 INFO calculating the utility values
+2023-10-10 13:41:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:41:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:41:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:41:21 INFO inside add server module
+2023-10-10 13:41:21 INFO Server added successfully
+2023-10-10 13:42:21 INFO calculating the utility values
+2023-10-10 13:42:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:42:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:42:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:42:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:43:21 INFO calculating the utility values
+2023-10-10 13:43:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:43:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:43:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:43:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:44:21 INFO calculating the utility values
+2023-10-10 13:44:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:44:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:44:21 INFO No adaptation required
+2023-10-10 13:45:21 INFO calculating the utility values
+2023-10-10 13:45:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:45:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:45:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:45:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:46:21 INFO calculating the utility values
+2023-10-10 13:46:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:46:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:46:21 INFO No adaptation required
+2023-10-10 13:47:21 INFO calculating the utility values
+2023-10-10 13:47:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:47:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:47:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:47:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:48:21 INFO calculating the utility values
+2023-10-10 13:48:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:48:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:48:21 INFO No adaptation required
+2023-10-10 13:49:21 INFO calculating the utility values
+2023-10-10 13:49:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:49:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:49:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:49:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:50:21 INFO calculating the utility values
+2023-10-10 13:50:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:50:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:50:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:50:21 INFO removing server
+2023-10-10 13:50:21 INFO server removed successfully
+2023-10-10 13:51:21 INFO calculating the utility values
+2023-10-10 13:51:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:51:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:51:21 INFO No adaptation required
+2023-10-10 13:52:21 INFO calculating the utility values
+2023-10-10 13:52:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:52:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:52:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:52:21 INFO inside add server module
+2023-10-10 13:52:21 INFO Server added successfully
+2023-10-10 13:53:21 INFO calculating the utility values
+2023-10-10 13:53:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:53:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:53:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:53:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:54:21 INFO calculating the utility values
+2023-10-10 13:54:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:54:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:54:21 INFO No adaptation required
+2023-10-10 13:55:21 INFO calculating the utility values
+2023-10-10 13:55:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:55:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:55:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:55:21 INFO inside change dimer module, change flag increase
+2023-10-10 13:56:21 INFO calculating the utility values
+2023-10-10 13:56:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:56:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:56:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:56:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:57:21 INFO calculating the utility values
+2023-10-10 13:57:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:57:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:57:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:57:21 INFO removing server
+2023-10-10 13:57:21 INFO server removed successfully
+2023-10-10 13:58:21 INFO calculating the utility values
+2023-10-10 13:58:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:58:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:58:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 13:58:21 INFO inside change dimer module, change flag decrease
+2023-10-10 13:59:21 INFO calculating the utility values
+2023-10-10 13:59:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 13:59:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 13:59:21 INFO No adaptation required
+2023-10-10 14:00:21 INFO calculating the utility values
+2023-10-10 14:00:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:00:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:00:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:00:21 INFO removing server
+2023-10-10 14:00:21 INFO server removed successfully
+2023-10-10 14:01:21 INFO calculating the utility values
+2023-10-10 14:01:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:01:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:01:21 INFO No adaptation required
+2023-10-10 14:02:21 INFO calculating the utility values
+2023-10-10 14:02:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:02:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:02:21 INFO No adaptation required
+2023-10-10 14:03:21 INFO calculating the utility values
+2023-10-10 14:03:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:03:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:03:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:03:21 INFO inside add server module
+2023-10-10 14:03:21 INFO Server added successfully
+2023-10-10 14:04:21 INFO calculating the utility values
+2023-10-10 14:04:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:04:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:04:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:04:21 INFO inside add server module
+2023-10-10 14:04:21 INFO Server added successfully
+2023-10-10 14:05:21 INFO calculating the utility values
+2023-10-10 14:05:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:05:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:05:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:05:21 INFO inside change dimer module, change flag increase
+2023-10-10 14:06:21 INFO calculating the utility values
+2023-10-10 14:06:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:06:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:06:21 INFO No adaptation required
+2023-10-10 14:07:21 INFO calculating the utility values
+2023-10-10 14:07:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:07:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:07:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:07:21 INFO inside change dimer module, change flag decrease
+2023-10-10 14:08:21 INFO calculating the utility values
+2023-10-10 14:08:21 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:08:21 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:08:21 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:08:21 INFO removing server
+2023-10-10 14:08:21 INFO server removed successfully
+2023-10-10 14:09:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:10:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:11:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:12:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:13:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:14:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:15:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:16:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:17:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:18:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:19:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:20:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:21:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:22:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:23:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:24:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:25:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:26:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:27:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:28:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:29:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:30:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:31:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:32:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:33:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:34:21 ERROR [Errno 104] Connection reset by peer
+2023-10-10 14:36:04 DEBUG Logger Initialized
+2023-10-10 14:36:04 INFO running the adaptation effector module
+2023-10-10 14:36:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:36:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:36:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:36:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:37:04 INFO calculating the utility values
+2023-10-10 14:37:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:37:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:37:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:37:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:38:04 INFO calculating the utility values
+2023-10-10 14:38:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:38:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:38:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:38:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:39:04 INFO calculating the utility values
+2023-10-10 14:39:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:39:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:39:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:39:04 INFO removing server
+2023-10-10 14:39:04 INFO server removed successfully
+2023-10-10 14:40:04 INFO calculating the utility values
+2023-10-10 14:40:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:40:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:40:04 INFO No adaptation required
+2023-10-10 14:41:04 INFO calculating the utility values
+2023-10-10 14:41:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:41:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:41:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:41:04 INFO inside change dimer module, change flag increase
+2023-10-10 14:42:04 INFO calculating the utility values
+2023-10-10 14:42:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:42:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:42:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:42:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:43:04 INFO calculating the utility values
+2023-10-10 14:43:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:43:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:43:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:43:04 INFO inside change dimer module, change flag increase
+2023-10-10 14:44:04 INFO calculating the utility values
+2023-10-10 14:44:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:44:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:44:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:44:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:45:04 INFO calculating the utility values
+2023-10-10 14:45:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:45:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:45:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:45:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:46:04 INFO calculating the utility values
+2023-10-10 14:46:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:46:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:46:04 INFO No adaptation required
+2023-10-10 14:47:04 INFO calculating the utility values
+2023-10-10 14:47:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:47:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:47:04 INFO No adaptation required
+2023-10-10 14:48:04 INFO calculating the utility values
+2023-10-10 14:48:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:48:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:48:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:48:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:49:04 INFO calculating the utility values
+2023-10-10 14:49:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:49:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:49:04 INFO No adaptation required
+2023-10-10 14:50:04 INFO calculating the utility values
+2023-10-10 14:50:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:50:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:50:04 INFO No adaptation required
+2023-10-10 14:51:04 INFO calculating the utility values
+2023-10-10 14:51:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:51:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:51:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:51:04 INFO inside add server module
+2023-10-10 14:51:04 INFO Server added successfully
+2023-10-10 14:52:04 INFO calculating the utility values
+2023-10-10 14:52:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:52:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:52:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:52:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:53:04 INFO calculating the utility values
+2023-10-10 14:53:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:53:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:53:04 INFO No adaptation required
+2023-10-10 14:54:04 INFO calculating the utility values
+2023-10-10 14:54:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:54:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:54:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:54:04 INFO inside change dimer module, change flag increase
+2023-10-10 14:55:04 INFO calculating the utility values
+2023-10-10 14:55:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:55:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:55:04 INFO No adaptation required
+2023-10-10 14:56:04 INFO calculating the utility values
+2023-10-10 14:56:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:56:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:56:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:56:04 INFO inside change dimer module, change flag decrease
+2023-10-10 14:57:04 INFO calculating the utility values
+2023-10-10 14:57:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:57:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:57:04 INFO No adaptation required
+2023-10-10 14:58:04 INFO calculating the utility values
+2023-10-10 14:58:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:58:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:58:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 14:58:04 INFO inside change dimer module, change flag increase
+2023-10-10 14:59:04 INFO calculating the utility values
+2023-10-10 14:59:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 14:59:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 14:59:04 INFO No adaptation required
+2023-10-10 15:00:04 INFO calculating the utility values
+2023-10-10 15:00:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:00:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:00:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:00:04 INFO inside change dimer module, change flag decrease
+2023-10-10 15:01:04 INFO calculating the utility values
+2023-10-10 15:01:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:01:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:01:04 INFO No adaptation required
+2023-10-10 15:02:04 INFO calculating the utility values
+2023-10-10 15:02:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:02:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:02:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:02:04 INFO removing server
+2023-10-10 15:02:04 INFO server removed successfully
+2023-10-10 15:03:04 INFO calculating the utility values
+2023-10-10 15:03:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:03:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:03:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:03:04 INFO removing server
+2023-10-10 15:03:04 INFO server removed successfully
+2023-10-10 15:04:04 INFO calculating the utility values
+2023-10-10 15:04:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:04:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:04:04 INFO No adaptation required
+2023-10-10 15:05:04 INFO calculating the utility values
+2023-10-10 15:05:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:05:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:05:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:05:04 INFO inside add server module
+2023-10-10 15:05:04 INFO Server added successfully
+2023-10-10 15:06:04 INFO calculating the utility values
+2023-10-10 15:06:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:06:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:06:04 INFO No adaptation required
+2023-10-10 15:07:04 INFO calculating the utility values
+2023-10-10 15:07:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:07:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:07:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:07:04 INFO inside change dimer module, change flag decrease
+2023-10-10 15:08:04 INFO calculating the utility values
+2023-10-10 15:08:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:08:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:08:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:08:04 INFO removing server
+2023-10-10 15:08:04 INFO server removed successfully
+2023-10-10 15:09:04 INFO calculating the utility values
+2023-10-10 15:09:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:09:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:09:04 INFO No adaptation required
+2023-10-10 15:10:04 INFO calculating the utility values
+2023-10-10 15:10:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:10:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:10:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:10:04 INFO inside change dimer module, change flag increase
+2023-10-10 15:11:04 INFO calculating the utility values
+2023-10-10 15:11:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:11:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:11:04 INFO No adaptation required
+2023-10-10 15:12:04 INFO calculating the utility values
+2023-10-10 15:12:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:12:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:12:04 INFO No adaptation required
+2023-10-10 15:13:04 INFO calculating the utility values
+2023-10-10 15:13:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:13:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:13:04 INFO No adaptation required
+2023-10-10 15:14:04 INFO calculating the utility values
+2023-10-10 15:14:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:14:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:14:04 INFO No adaptation required
+2023-10-10 15:15:04 INFO calculating the utility values
+2023-10-10 15:15:04 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:15:04 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:15:04 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:15:04 INFO inside change dimer module, change flag increase
+2023-10-10 15:17:19 DEBUG Logger Initialized
+2023-10-10 15:17:19 INFO running the adaptation effector module
+2023-10-10 15:17:19 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:17:19 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:17:19 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:17:19 INFO inside change dimer module, change flag increase
+2023-10-10 15:17:37 DEBUG Logger Initialized
+2023-10-10 15:17:37 INFO running the adaptation effector module
+2023-10-10 15:17:37 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:17:37 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:17:37 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:17:37 INFO removing server
+2023-10-10 15:17:37 INFO server removed successfully
+2023-10-10 15:18:11 DEBUG Logger Initialized
+2023-10-10 15:18:11 INFO running the adaptation effector module
+2023-10-10 15:18:11 INFO Inside the Analyzer: Performing the analysis
+2023-10-10 15:18:11 INFO Inside the planner: Generating the adaptation plan
+2023-10-10 15:18:11 INFO Inside the Executor: executing the adaptations
+2023-10-10 15:18:11 INFO inside add server module
+2023-10-10 15:18:11 INFO Server added successfully
